@@ -1,0 +1,3041 @@
+[
+  {
+    "name": "Poring",
+    "drops": [
+      "Poring Hat Blueprint (0.01%)",
+      "Poring Card (0.01%)",
+      "Jellopy (21.21%)",
+      "Transformation Scroll (Poring) (0.38%)",
+      "32 × Zeny (62.34%)",
+      "158 × Zeny (62.34%)",
+      "Apple Juice (8.95%)",
+      "Eden Team Knife [2] (1.67%)"
+    ]
+  },
+  {
+    "name": "Mandragora Seed",
+    "drops": [
+      "Mandragora Card (?%)"
+    ]
+  },
+  {
+    "name": "Screaming Mandragora",
+    "drops": [
+      "Mandragora Card (?%)"
+    ]
+  },
+  {
+    "name": "Rare Mandragora",
+    "drops": [
+      "Mandragora Card (?%)"
+    ]
+  },
+  {
+    "name": "Lunatic",
+    "drops": [
+      "Clown Nose Blueprint (0.01%)",
+      "Lunatic Card (0.01%)",
+      "Feather (26.63%)",
+      "Transformation Scroll (Lunatic) (0.48%)",
+      "32 × Zeny (53.25%)",
+      "161 × Zeny (53.25%)",
+      "Apple Juice (11.24%)",
+      "Orange Potion (1.7%)",
+      "Eden Team Boots [1] (2.1%)"
+    ]
+  },
+  {
+    "name": "Fabre",
+    "drops": [
+      "Fabre Card (?%)",
+      "Jellopy (26.32%)",
+      "Transformation Scroll (Fabre) (0.28%)",
+      "33 × Zeny (66.74%)",
+      "164 × Zeny (66.74%)",
+      "Eden Team Training Clothes [1] (0.88%)"
+    ]
+  },
+  {
+    "name": "Pupa",
+    "drops": [
+      "Pupa Card (0.05%)",
+      "33 × Zeny (99.94%)"
+    ]
+  },
+  {
+    "name": "Savage Babe",
+    "drops": null
+  },
+  {
+    "name": "Desert Wolf Baby",
+    "drops": null
+  },
+  {
+    "name": "Peco Peco Egg",
+    "drops": [
+      "Peco Peco Egg Card (0.05%)",
+      "Scarlet Dyestuffs (1.26%)",
+      "33 × Zeny (98.68%)"
+    ]
+  },
+  {
+    "name": "Smokie",
+    "drops": [
+      "Kitty Band Blueprint (0.93%)",
+      "Smokie Card (?%)",
+      "Feather (10.14%)",
+      "Raccoon Leaf (2.99%)",
+      "Transformation Scroll (Smokie) (0.84%)",
+      "Awakening Potion (7.53%)",
+      "Rough Elunium (9.89%)",
+      "Candy (5.23%)",
+      "270 × Zeny (?%)",
+      "Leather Jacket [1] (31.2%)",
+      "Bow [2] (31.2%)"
+    ]
+  },
+  {
+    "name": "Picky",
+    "drops": [
+      "Picky Card (?%)",
+      "Scarlet Dyestuffs (?%)",
+      "34 × Zeny (?%)"
+    ]
+  },
+  {
+    "name": "Eclipse",
+    "drops": [
+      "Cute Ribbon Blueprint (1.01%)",
+      "Eclipse Card (?%)",
+      "Feather (10.53%)",
+      "Cobaltblue Dyestuffs (7.11%)",
+      "Four Leaf Clover (2.33%)",
+      "Transformation Scroll (Eclipse) (0.91%)",
+      "Rough Oridecon (10.66%)",
+      "275 × Zeny (?%)",
+      "Sandals [1] (33.71%)",
+      "Rod [2] (33.71%)"
+    ]
+  },
+  {
+    "name": "Tarou",
+    "drops": [
+      "Tarou Card (?%)",
+      "Feather (21.7%)",
+      "Transformation Scroll (Tarou) (0.23%)",
+      "35 × Zeny (71.29%)",
+      "173 × Zeny (71.29%)",
+      "Bracelet of Gray [1] (0.57%)"
+    ]
+  },
+  {
+    "name": "Mastering",
+    "drops": [
+      "Unicorn Horn Blueprint (0.49%)",
+      "Mastering Card (?%)",
+      "Jellopy (17.53%)",
+      "Light Granule (4.62%)",
+      "Transformation Scroll (Mastering) (1.58%)",
+      "Mandragora (?%)",
+      "Apple Juice (42.35%)",
+      "312 × Zeny (0.38%)",
+      "Staff [2] (33.02%)"
+    ]
+  },
+  {
+    "name": "Ant Egg",
+    "drops": [
+      "Meta Ant Egg Card (0.02%)",
+      "35 × Zeny (99.97%)"
+    ]
+  },
+  {
+    "name": "Thief Bug",
+    "drops": [
+      "Thief Bug Card (?%)",
+      "Transformation Scroll (Thief Bug) (0.57%)",
+      "35 × Zeny (85.54%)",
+      "175 × Zeny (85.54%)",
+      "Iron (5.56%)",
+      "Cutter [2] (0.97%)"
+    ]
+  },
+  {
+    "name": "Chon Chon",
+    "drops": [
+      "Gas Mask Blueprint (?%)",
+      "Chon Chon Card (?%)",
+      "Transformation Scroll (Chon Chon) (0.76%)",
+      "36 × Zeny (82.68%)",
+      "181 × Zeny (82.68%)",
+      "Fly Wing (2.17%)",
+      "Iron (6.23%)",
+      "Buckler [1] (1.08%)"
+    ]
+  },
+  {
+    "name": "Thief Bug Egg",
+    "drops": [
+      "Thief Bug Egg Card (0.05%)",
+      "35 × Zeny (99.94%)"
+    ]
+  },
+  {
+    "name": "Spore",
+    "drops": [
+      "Hat [1] Blueprint (?%)",
+      "Spore Card (?%)",
+      "Jellopy (43.68%)",
+      "Transformation Scroll (Spore) (0.47%)",
+      "35 × Zeny (50.72%)",
+      "177 × Zeny (50.72%)",
+      "Eden Team Manteau [1] (0.79%)"
+    ]
+  },
+  {
+    "name": "Yoyo",
+    "drops": [
+      "Yoyo Card (?%)",
+      "Feather (23.96%)",
+      "Transformation Scroll (Yoyo) (0.26%)",
+      "37 × Zeny (69.28%)",
+      "184 × Zeny (69.28%)",
+      "Leather Jacket [1] (0.5%)"
+    ]
+  },
+  {
+    "name": "Familiar",
+    "drops": [
+      "Ribbon [1] Blueprint (?%)",
+      "Familiar Card (?%)",
+      "Rotten Bandage (35%)",
+      "Transformation Scroll (Familiar) (0.39%)",
+      "36 × Zeny (56.89%)",
+      "178 × Zeny (56.89%)",
+      "Fly Wing (2.11%)",
+      "Sword [2] (0.65%)"
+    ]
+  },
+  {
+    "name": "Wormtail",
+    "drops": [
+      "Wormtail Card (?%)",
+      "Jellopy (43.5%)",
+      "Transformation Scroll (Wormtail) (0.02%)",
+      "37 × Zeny (50.79%)",
+      "183 × Zeny (50.79%)",
+      "Great Nature (0.59%)",
+      "Leather Jacket [1] (0.68%)"
+    ]
+  },
+  {
+    "name": "Rocker",
+    "drops": [
+      "Green Feeler Blueprint (?%)",
+      "Rocker Card (?%)",
+      "Jellopy (36.89%)",
+      "Transformation Scroll (Rocker) (0.4%)",
+      "37 × Zeny (57.24%)",
+      "186 × Zeny (57.24%)",
+      "P. Stick [2] (0.56%)"
+    ]
+  },
+  {
+    "name": "Thief Bug Female",
+    "drops": [
+      "Female Thief Bug Card (?%)",
+      "Rotten Bandage (33.26%)",
+      "Transformation Scroll (Thief Bug Female) (0.01%)",
+      "36 × Zeny (61.07%)",
+      "180 × Zeny (61.07%)",
+      "Club [2] (0.4%)"
+    ]
+  },
+  {
+    "name": "Thief Bug Male",
+    "drops": [
+      "Oxygen Mask Blueprint (?%)",
+      "Transformation Scroll (Thief Bug Male) (0.02%)",
+      "37 × Zeny (87.63%)",
+      "183 × Zeny (87.63%)",
+      "Iron (4.03%)",
+      "Wide Dagger [2] (0.7%)"
+    ]
+  },
+  {
+    "name": "Creamy",
+    "drops": [
+      "Fancy Flower Blueprint (?%)",
+      "Feather (36.91%)",
+      "Transformation Scroll (Creamy) (0.01%)",
+      "38 × Zeny (56.75%)",
+      "188 × Zeny (56.75%)",
+      "Honey (0.46%)",
+      "Butterfly Wing (0.93%)"
+    ]
+  },
+  {
+    "name": "Vocal",
+    "drops": [
+      "Romantic Gent Blueprint (1%)",
+      "Vocal Card (?%)",
+      "Jellopy (12.61%)",
+      "Antenna (3.64%)",
+      "Transformation Scroll (Vocal) (1.2%)",
+      "Rough Oridecon (14.1%)",
+      "312 × Zeny (0.19%)",
+      "Falchion [2] (33.61%)",
+      "P. Bow [2] (33.61%)"
+    ]
+  },
+  {
+    "name": "Thief Bug Male ★",
+    "drops": [
+      "Oxygen Mask Blueprint (?%)",
+      "Male Thief Bug Card (?%)",
+      "Transformation Scroll (Thief Bug Male) (?%)",
+      "37 × Zeny (?%)",
+      "183 × Zeny (?%)",
+      "Iron (?%)",
+      "Wide Dagger [2] (?%)",
+      "Mandragora (?%)",
+      "2 × Mandragora (?%)"
+    ]
+  },
+  {
+    "name": "Creamy ★",
+    "drops": [
+      "Fancy Flower Blueprint (0.19%)",
+      "Creamy Card (0.01%)",
+      "Feather (22.78%)",
+      "Transformation Scroll (Creamy) (0.01%)",
+      "38 × Zeny (70.06%)",
+      "188 × Zeny (70.06%)",
+      "Honey (0.28%)",
+      "Butterfly Wing (0.57%)",
+      "Iron (100%)"
+    ]
+  },
+  {
+    "name": "Willow",
+    "drops": [
+      "Sakkat Blueprint (?%)",
+      "Willow Card (?%)",
+      "Jellopy (38.46%)",
+      "Transformation Scroll (Willow) (0.4%)",
+      "38 × Zeny (56.26%)",
+      "189 × Zeny (56.26%)"
+    ]
+  },
+  {
+    "name": "Mandragora",
+    "drops": [
+      "Mandragora Card (?%)",
+      "Jellopy (31.88%)",
+      "Green Dyestuffs (0.33%)",
+      "Transformation Scroll (Mandragora) (0.01%)",
+      "38 × Zeny (61.58%)",
+      "191 × Zeny (61.58%)",
+      "Great Nature (0.43%)",
+      "Sandals [1] (0.48%)"
+    ]
+  },
+  {
+    "name": "Hydra",
+    "drops": [
+      "Flu Mask Blueprint (?%)",
+      "Jellopy (40.73%)",
+      "Transformation Scroll (Hydra) (0.47%)",
+      "38 × Zeny (53.51%)",
+      "192 × Zeny (53.51%)",
+      "Panacea (0.73%)"
+    ]
+  },
+  {
+    "name": "Hydra ★",
+    "drops": [
+      "Flu Mask Blueprint (0.21%)",
+      "Hydra Card (0.01%)",
+      "Jellopy (23.95%)",
+      "Transformation Scroll (Hydra) (0.28%)",
+      "38 × Zeny (69.23%)",
+      "192 × Zeny (69.23%)",
+      "Panacea (0.43%)",
+      "Aquamarine (65%)",
+      "2 × Aquamarine (65%)"
+    ]
+  },
+  {
+    "name": "Wolf",
+    "drops": [
+      "Cap [1] Blueprint (?%)",
+      "Wolf Card (?%)",
+      "Transformation Scroll (Wolf) (0.01%)",
+      "39 × Zeny (89.44%)",
+      "194 × Zeny (89.44%)",
+      "Iron (2.41%)",
+      "Weihna Gloves [1] (0.42%)"
+    ]
+  },
+  {
+    "name": "Roda Frog",
+    "drops": [
+      "Roda Frog Card (?%)",
+      "Transformation Scroll (Roda Frog) (0.43%)",
+      "39 × Zeny (88.08%)",
+      "195 × Zeny (88.08%)",
+      "Steel (3.33%)",
+      "P. Staff [2] (0.58%)"
+    ]
+  },
+  {
+    "name": "Angeling",
+    "drops": [
+      "Angel Wing Blueprint (?%)",
+      "Angeling Card (?%)",
+      "5 × Jellopy (4.07%)",
+      "Light Granule (5.39%)",
+      "Transformation Scroll (Angeling) (0.2%)",
+      "Emperium (7.41%)",
+      "Rough Elunium (21.61%)",
+      "Apple Juice (1.74%)",
+      "Guard the Eternal Love (8.23%)",
+      "Leaf of Yggdrasil (17.29%)",
+      "1563 × Zeny (34.02%)",
+      "Mace [2] (?%)",
+      "Angelic Protection (100%)"
+    ]
+  },
+  {
+    "name": "Whisper",
+    "drops": [
+      "Whisper Mask Blueprint (?%)",
+      "Whisper Card (?%)",
+      "Rotten Bandage (34.16%)",
+      "Transformation Scroll (Whisper) (0.01%)",
+      "40 × Zeny (59.56%)",
+      "200 × Zeny (59.56%)",
+      "Candy (0.71%)",
+      "Adventurer Shield [1] (0.42%)"
+    ]
+  },
+  {
+    "name": "Pirate Skeleton",
+    "drops": [
+      "Pirate Bandana [1] Blueprint (?%)",
+      "Pirate Skeleton Card (?%)",
+      "Memento (28.05%)",
+      "Scarlet Dyestuffs (0.36%)",
+      "Transformation Scroll (Pirate Skeleton) (0.49%)",
+      "40 × Zeny (64.93%)",
+      "198 × Zeny (64.93%)",
+      "Gladius [2] (0.51%)"
+    ]
+  },
+  {
+    "name": "Poison Spore",
+    "drops": [
+      "Hat [1] Blueprint (?%)",
+      "Poison Spore Card (?%)",
+      "Rotten Bandage (43.29%)",
+      "Transformation Scroll (Poison Spore) (0.47%)",
+      "39 × Zeny (51.35%)",
+      "197 × Zeny (51.35%)",
+      "Formal Suit [1] (0.5%)"
+    ]
+  },
+  {
+    "name": "Vadon",
+    "drops": [
+      "Vadon Card (?%)",
+      "Transformation Scroll (Vadon) (0.65%)",
+      "40 × Zeny (85.44%)",
+      "202 × Zeny (85.44%)",
+      "Mystic Frozen (0.48%)",
+      "Blue Gemstone (1.61%)",
+      "Steel (3.86%)",
+      "Mace [2] (0.67%)"
+    ]
+  },
+  {
+    "name": "Skeleton",
+    "drops": [
+      "Bandana Blueprint (?%)",
+      "Skeleton Card (?%)",
+      "Transformation Scroll (Skeleton) (0.02%)",
+      "41 × Zeny (86.96%)",
+      "203 × Zeny (86.96%)",
+      "Awakening Potion (0.77%)",
+      "Steel (3.99%)",
+      "Blade [2] (0.69%)"
+    ]
+  },
+  {
+    "name": "Golden Thief Bug",
+    "drops": [
+      "Golden Gear Blueprint (0.13%)",
+      "Golden Thief Bug Card (?%)",
+      "5 × Garlet (9.46%)",
+      "Lemon Dyestuffs (22.66%)",
+      "Antenna (8.79%)",
+      "Transformation Scroll (Golden Thief Bug) (0.32%)",
+      "Emperium (11.65%)",
+      "Rough Oridecon (34%)",
+      "Alberta (12.95%)",
+      "1625 × Zeny (?%)",
+      "Blade [2] (?%)",
+      "Panties (100%)",
+      "Meteorite Armor (100%)"
+    ]
+  },
+  {
+    "name": "Thara Frog",
+    "drops": [
+      "Thara Frog Card (?%)",
+      "Sticky Mucus (27.86%)",
+      "Transformation Scroll (Thara Frog) (0.38%)",
+      "41 × Zeny (65.67%)",
+      "205 × Zeny (65.67%)",
+      "Moccasin [1] (0.43%)"
+    ]
+  },
+  {
+    "name": "Marina",
+    "drops": [
+      "Jellyfish head [1] Blueprint (?%)",
+      "Marina Card (?%)",
+      "Garlet (27.22%)",
+      "Transformation Scroll (Marina) (0.5%)",
+      "41 × Zeny (64.27%)",
+      "206 × Zeny (64.27%)",
+      "Mystic Frozen (0.46%)",
+      "Blue Gemstone (1.53%)",
+      "Silversmith Bracelet [1] (0.5%)"
+    ]
+  },
+  {
+    "name": "Marine Sphere",
+    "drops": [
+      "Marine Sphere Card (?%)",
+      "Memento (30.56%)",
+      "41 × Zeny (67.4%)",
+      "Blue Gemstone (2.01%)"
+    ]
+  },
+  {
+    "name": "Obeaune",
+    "drops": [
+      "Fin Helm Blueprint (?%)",
+      "Sticky Mucus (17.52%)",
+      "Cobaltblue Dyestuffs (0.23%)",
+      "Rough Oridecon (0.34%)",
+      "Transformation Scroll (Obeaune) (0.02%)",
+      "42 × Zeny (70.3%)",
+      "208 × Zeny (70.3%)",
+      "Mystic Frozen (0.29%)",
+      "Apple Juice (4.62%)",
+      "Mantle [1] (0.56%)"
+    ]
+  },
+  {
+    "name": "Obeaune ★",
+    "drops": [
+      "Fin Helm Blueprint (0.22%)",
+      "Obeaune Card (0.03%)",
+      "Sticky Mucus (10.18%)",
+      "Cobaltblue Dyestuffs (0.13%)",
+      "Rough Oridecon (0.2%)",
+      "Transformation Scroll (Obeaune) (0.01%)",
+      "42 × Zeny (79.35%)",
+      "208 × Zeny (79.35%)",
+      "Mystic Frozen (0.17%)",
+      "Apple Juice (2.68%)",
+      "Mantle [1] (0.12%)",
+      "Aquamarine (65%)",
+      "2 × Aquamarine (65%)"
+    ]
+  },
+  {
+    "name": "Phen",
+    "drops": [
+      "Fish In Mouth Blueprint (?%)",
+      "Phen Card (?%)",
+      "Transformation Scroll (Phen) (0.03%)",
+      "42 × Zeny (87.7%)",
+      "209 × Zeny (87.7%)",
+      "Steel (4%)",
+      "Steel Sword [2] (0.69%)"
+    ]
+  },
+  {
+    "name": "Ghosting",
+    "drops": [
+      "Ghost Bandana Blueprint (1.2%)",
+      "Ghosting Card (?%)",
+      "Memento (15.8%)",
+      "Fabric (4.59%)",
+      "Transformation Scroll (Ghosting) (1.37%)",
+      "Emperium (3.67%)",
+      "Elunium (1.6%)",
+      "Dead Branch (22.95%)",
+      "Candy (8.5%)",
+      "337 × Zeny (0.21%)",
+      "Silversmith Bracelet [1] (40.06%)",
+      "Tidal Shoes (100%)"
+    ]
+  },
+  {
+    "name": "Goblin(Knife)",
+    "drops": [
+      "Strange Goblin Mask Blueprint (?%)",
+      "Sticky Mucus (34.38%)",
+      "Transformation Scroll (Goblin(Knife)) (0.47%)",
+      "42 × Zeny (59.57%)",
+      "211 × Zeny (59.57%)",
+      "Jur [2] (0.47%)"
+    ]
+  },
+  {
+    "name": "Goblin(Buckler)",
+    "drops": [
+      "Poker Face Blueprint (?%)",
+      "Sticky Mucus (29.85%)",
+      "Transformation Scroll (Goblin(Buckler)) (0.5%)",
+      "42 × Zeny (63.23%)",
+      "211 × Zeny (63.23%)",
+      "Great Nature (0.5%)",
+      "Scutum [1] (0.49%)"
+    ]
+  },
+  {
+    "name": "Goblin(Hammer)",
+    "drops": [
+      "Annoyed Mask Blueprint (?%)",
+      "Sticky Mucus (34.38%)",
+      "Transformation Scroll (Goblin(Hammer)) (0.47%)",
+      "42 × Zeny (59.57%)",
+      "211 × Zeny (59.57%)",
+      "Chain [2] (0.47%)"
+    ]
+  },
+  {
+    "name": "Goblin(Spear)",
+    "drops": [
+      "Goblin Mask Blueprint (?%)",
+      "Feather (39.58%)",
+      "Transformation Scroll (Goblin(Spear)) (0.44%)",
+      "42 × Zeny (54.86%)",
+      "211 × Zeny (54.86%)",
+      "Spear [2] (0.43%)"
+    ]
+  },
+  {
+    "name": "Goblin(Axe)",
+    "drops": [
+      "Surprised Mask Blueprint (?%)",
+      "Feather (40.86%)",
+      "Transformation Scroll (Goblin(Axe)) (0.43%)",
+      "42 × Zeny (54.08%)",
+      "211 × Zeny (54.08%)"
+    ]
+  },
+  {
+    "name": "Deviling",
+    "drops": [
+      "Evil Wing Ears Blueprint (0.12%)",
+      "Deviling Card (?%)",
+      "5 × Rotten Bandage (6.8%)",
+      "Soft Feather (11.17%)",
+      "Transformation Scroll (Deviling) (0.49%)",
+      "Apple Juice (5.45%)",
+      "Oridecon (5.16%)",
+      "Life in Spring (19.66%)",
+      "1688 × Zeny (51.12%)",
+      "Long Bow [2] (?%)",
+      "Deathcat Cape (100%)",
+      "Giant Axe [1] (100%)"
+    ]
+  },
+  {
+    "name": "Goblin(Knife) ★",
+    "drops": [
+      "Strange Goblin Mask Blueprint (?%)",
+      "Goblin Card (?%)",
+      "Sticky Mucus (?%)",
+      "Transformation Scroll (Goblin(Knife)) (?%)",
+      "42 × Zeny (?%)",
+      "211 × Zeny (?%)",
+      "Jur [2] (?%)",
+      "Zircon (?%)",
+      "Zircon (?%)"
+    ]
+  },
+  {
+    "name": "Goblin(Buckler) ★",
+    "drops": [
+      "Poker Face Blueprint (?%)",
+      "Goblin Card (?%)",
+      "Sticky Mucus (?%)",
+      "Transformation Scroll (Goblin(Buckler)) (?%)",
+      "42 × Zeny (?%)",
+      "211 × Zeny (?%)",
+      "Great Nature (?%)",
+      "Scutum [1] (?%)",
+      "Zircon (?%)",
+      "Zircon (?%)"
+    ]
+  },
+  {
+    "name": "Goblin(Hammer) ★",
+    "drops": [
+      "Annoyed Mask Blueprint (?%)",
+      "Goblin Card (?%)",
+      "Sticky Mucus (?%)",
+      "Transformation Scroll (Goblin(Hammer)) (?%)",
+      "42 × Zeny (?%)",
+      "211 × Zeny (?%)",
+      "Chain [2] (?%)",
+      "Zircon (?%)",
+      "Zircon (?%)"
+    ]
+  },
+  {
+    "name": "Goblin(Spear) ★",
+    "drops": [
+      "Goblin Mask Blueprint (?%)",
+      "Goblin Card (?%)",
+      "Feather (?%)",
+      "Transformation Scroll (Goblin(Spear)) (?%)",
+      "42 × Zeny (?%)",
+      "211 × Zeny (?%)",
+      "Spear [2] (?%)",
+      "Zircon (?%)",
+      "Zircon (?%)"
+    ]
+  },
+  {
+    "name": "Goblin(Axe) ★",
+    "drops": [
+      "Surprised Mask Blueprint (?%)",
+      "Goblin Card (?%)",
+      "Feather (?%)",
+      "Transformation Scroll (Goblin(Axe)) (?%)",
+      "42 × Zeny (?%)",
+      "211 × Zeny (?%)",
+      "Zircon (?%)",
+      "Zircon (?%)"
+    ]
+  },
+  {
+    "name": "Marc",
+    "drops": [
+      "Grampa Beard Blueprint (?%)",
+      "Garlet (26.29%)",
+      "Rough Oridecon (0.52%)",
+      "Transformation Scroll (Marc) (0.02%)",
+      "43 × Zeny (65.07%)",
+      "213 × Zeny (65.07%)",
+      "Mystic Frozen (0.44%)",
+      "Blue Gemstone (1.48%)",
+      "Thick Dagger [2] (0.52%)"
+    ]
+  },
+  {
+    "name": "Marc ★",
+    "drops": [
+      "Grampa Beard Blueprint (0.21%)",
+      "Marc Card (0.01%)",
+      "Garlet (15.75%)",
+      "Rough Oridecon (0.31%)",
+      "Transformation Scroll (Marc) (0.01%)",
+      "43 × Zeny (75.84%)",
+      "213 × Zeny (75.84%)",
+      "Mystic Frozen (0.26%)",
+      "Blue Gemstone (0.89%)",
+      "Thick Dagger [2] (0.12%)",
+      "Aquamarine (65%)",
+      "2 × Aquamarine (65%)"
+    ]
+  },
+  {
+    "name": "Goblin Archer",
+    "drops": [
+      "Evil Goblin Mask Blueprint (?%)",
+      "Goblin Archer Card (?%)",
+      "Sticky Mucus (34.64%)",
+      "Transformation Scroll (Goblin Archer) (0.48%)",
+      "43 × Zeny (59.28%)",
+      "214 × Zeny (59.28%)",
+      "Composite Bow [2] (0.47%)"
+    ]
+  },
+  {
+    "name": "Hornet",
+    "drops": [
+      "Green Feeler Blueprint (?%)",
+      "Hornet Card (?%)",
+      "Garlet (21.38%)",
+      "Green Dyestuffs (0.28%)",
+      "Transformation Scroll (Hornet) (0.01%)",
+      "43 × Zeny (70.02%)",
+      "216 × Zeny (70.02%)",
+      "Honey (0.33%)",
+      "Rough Wind (0.36%)",
+      "Fly Wing (1.61%)"
+    ]
+  },
+  {
+    "name": "Steam Goblin",
+    "drops": [
+      "Smile Goblin Mask Blueprint (?%)",
+      "Steam Goblin Card (?%)",
+      "Transformation Scroll (Steam Goblin) (0.71%)",
+      "43 × Zeny (87.24%)",
+      "217 × Zeny (87.24%)",
+      "Coal (3.93%)",
+      "Wand [2] (0.68%)"
+    ]
+  },
+  {
+    "name": "Toad",
+    "drops": [
+      "Big Ribbon [1] Blueprint (0.96%)",
+      "Toad Card (?%)",
+      "Sticky Mucus (11.69%)",
+      "Light Granule (3.52%)",
+      "Transformation Scroll (Toad) (1.2%)",
+      "Honey (4.47%)",
+      "Rough Elunium (14.1%)",
+      "350 × Zeny (?%)",
+      "Light Shoes [1] (32.01%)",
+      "Morpheus's Bracelet [1] (32.01%)",
+      "Silk Robe (100%)",
+      "Saphien's Armor of Ocean (100%)"
+    ]
+  },
+  {
+    "name": "Drake",
+    "drops": [
+      "Corsair [1] Blueprint (0.13%)",
+      "Drake Card (?%)",
+      "5 × Memento (8.6%)",
+      "Fabric (16.44%)",
+      "Transformation Scroll (Drake) (0.54%)",
+      "Dreamer's Dream (21.92%)",
+      "Elunium (5.75%)",
+      "White Potion (46.59%)",
+      "1750 × Zeny (?%)",
+      "Stiletto [2] (?%)",
+      "Flamberge [1] (100%)",
+      "Deathcat Armor (100%)"
+    ]
+  },
+  {
+    "name": "Deniro",
+    "drops": [
+      "Safety Helmet Blueprint (?%)",
+      "Garlet (32%)",
+      "Transformation Scroll (Deniro) (0.51%)",
+      "44 × Zeny (61.62%)",
+      "219 × Zeny (61.62%)",
+      "Flame Heart (0.54%)"
+    ]
+  },
+  {
+    "name": "Deniro ★",
+    "drops": [
+      "Safety Helmet Blueprint (0.2%)",
+      "Andre Card (0.02%)",
+      "Garlet (19.12%)",
+      "Transformation Scroll (Deniro) (0.31%)",
+      "44 × Zeny (73.66%)",
+      "219 × Zeny (73.66%)",
+      "Flame Heart (0.32%)",
+      "Topaz (65%)",
+      "2 × Topaz (65%)"
+    ]
+  },
+  {
+    "name": "Flora",
+    "drops": [
+      "Hibiscus Blueprint (?%)",
+      "Flora Card (?%)",
+      "Memento (42.78%)",
+      "Transformation Scroll (Flora) (0.01%)",
+      "44 × Zeny (52.67%)",
+      "220 × Zeny (52.67%)"
+    ]
+  },
+  {
+    "name": "Piere",
+    "drops": [
+      "Andre Card (?%)",
+      "Garlet (30.64%)",
+      "Transformation Scroll (Piere) (0.52%)",
+      "44 × Zeny (62.5%)",
+      "222 × Zeny (62.5%)",
+      "Rough Wind (0.51%)",
+      "Cross Shield [1] (0.49%)"
+    ]
+  },
+  {
+    "name": "Argiope",
+    "drops": [
+      "Gas Mask Blueprint (?%)",
+      "Argiope Card (?%)",
+      "Rough Elunium (1%)",
+      "Transformation Scroll (Argiope) (0.03%)",
+      "45 × Zeny (86.77%)",
+      "223 × Zeny (86.77%)",
+      "Coal (3.97%)",
+      "Dex Bracelet [1] (0.69%)"
+    ]
+  },
+  {
+    "name": "Andre",
+    "drops": [
+      "Andre Card (?%)",
+      "Scell (27.01%)",
+      "Transformation Scroll (Andre) (0.57%)",
+      "45 × Zeny (66.14%)",
+      "225 × Zeny (66.14%)",
+      "Great Nature (0.59%)"
+    ]
+  },
+  {
+    "name": "Rotar Zairo",
+    "drops": [
+      "Mini Propeller Blueprint (0.55%)",
+      "Rotar Zairo Card (?%)",
+      "Garlet (15.07%)",
+      "Parts (4.17%)",
+      "Transformation Scroll (Rotar Zairo) (1.28%)",
+      "Oridecon (1.49%)",
+      "Zircon (39.94%)",
+      "362 × Zeny (0.18%)",
+      "Steel Staff [2] (37.27%)",
+      "Luna Brooch (100%)"
+    ]
+  },
+  {
+    "name": "Strouf",
+    "drops": [
+      "Thunderstorm Cloud Blueprint (0.1%)",
+      "Strouf Card (?%)",
+      "5 × Sticky Mucus (1.1%)",
+      "Cobaltblue Dyestuffs (26.99%)",
+      "Pearl (8.63%)",
+      "Transformation Scroll (Strouf) (0.38%)",
+      "Dream of Whale (15.42%)",
+      "Oridecon (4.04%)",
+      "1813 × Zeny (43.29%)",
+      "Equestrian's Spear [2] (?%)",
+      "Lich Staff [1] (100%)",
+      "Staunch Clothes (100%)"
+    ]
+  },
+  {
+    "name": "Menblatt",
+    "drops": [
+      "Butterfly Wing Ears Blueprint (?%)",
+      "Menblatt Card (?%)",
+      "Garlet (37.45%)",
+      "Transformation Scroll (Menblatt) (0.03%)",
+      "45 × Zeny (46.73%)",
+      "227 × Zeny (46.73%)",
+      "Apple Juice (9.87%)",
+      "Butterfly Wing (1.18%)",
+      "Arc Wand [2] (0.73%)"
+    ]
+  },
+  {
+    "name": "Drainliar",
+    "drops": [
+      "Ribbon [1] Blueprint (?%)",
+      "Drainliar Card (?%)",
+      "Sticky Mucus (28.81%)",
+      "Scarlet Dyestuffs (0.38%)",
+      "Rough Oridecon (0.56%)",
+      "Transformation Scroll (Drainliar) (0.02%)",
+      "46 × Zeny (62.61%)",
+      "228 × Zeny (62.61%)",
+      "Fly Wing (2.17%)"
+    ]
+  },
+  {
+    "name": "Vitata",
+    "drops": [
+      "Vitata Card (?%)",
+      "Scell (10.18%)",
+      "Rough Oridecon (0.26%)",
+      "Transformation Scroll (Vitata) (0.01%)",
+      "46 × Zeny (81.93%)",
+      "230 × Zeny (81.93%)",
+      "Honey (0.2%)",
+      "Royal Jelly (0.04%)",
+      "Glass Boots [1] (0.32%)"
+    ]
+  },
+  {
+    "name": "Giearth",
+    "drops": [
+      "Elven Ears Blueprint (?%)",
+      "Giearth Card (?%)",
+      "Transformation Scroll (Giearth) (0.06%)",
+      "46 × Zeny (81.93%)",
+      "231 × Zeny (81.93%)",
+      "Great Nature (2.27%)",
+      "Gold Sand (7.42%)",
+      "Dex Bracelet [1] (1.29%)"
+    ]
+  },
+  {
+    "name": "Muka",
+    "drops": [
+      "Muka Card (?%)",
+      "Transformation Scroll (Muka) (0.59%)",
+      "47 × Zeny (87.39%)",
+      "233 × Zeny (87.39%)",
+      "Great Nature (0.52%)",
+      "Gold Sand (3.34%)",
+      "Katar [2] (0.58%)"
+    ]
+  },
+  {
+    "name": "Dragon Fly",
+    "drops": [
+      "Sweet Gent Blueprint (0.63%)",
+      "Dragon Fly Card (?%)",
+      "Garlet (5.28%)",
+      "Scarlet Dyestuffs (13.15%)",
+      "Star Crumb (4.77%)",
+      "Transformation Scroll (Dragon Fly) (1.69%)",
+      "Fly Wing (30.07%)",
+      "Elunium (1.97%)",
+      "375 × Zeny (?%)",
+      "Metal Armor [1] (42.39%)",
+      "Luna Bow [1] (100%)"
+    ]
+  },
+  {
+    "name": "Goblin Leader",
+    "drops": [
+      "Angry Snarl Blueprint (0.14%)",
+      "Goblin Leader Mask Blueprint (0.58%)",
+      "Goblin Leader Card (?%)",
+      "5 × Hard Skin (8.99%)",
+      "Lemon Dyestuffs (40.99%)",
+      "Soft Feather (13.3%)",
+      "Transformation Scroll (Goblin Leader) (0.58%)",
+      "Awakening Potion (11.71%)",
+      "Oridecon (6.14%)",
+      "Zircon (17.52%)",
+      "1875 × Zeny (?%)",
+      "Rapier [2] (?%)",
+      "Goibne's Armor (100%)",
+      "Cat's Blessing (100%)"
+    ]
+  },
+  {
+    "name": "Peco Peco",
+    "drops": [
+      "Peco Peco Hairband Blueprint (?%)",
+      "Peco Peco Card (?%)",
+      "Hard Skin (25.06%)",
+      "Rough Oridecon (0.64%)",
+      "Transformation Scroll (Peco Peco) (0.6%)",
+      "47 × Zeny (67.35%)",
+      "234 × Zeny (67.35%)",
+      "Chloe Bow [2] (0.53%)"
+    ]
+  },
+  {
+    "name": "Magnolia",
+    "drops": [
+      "Magnolia Hat [1] Blueprint (?%)",
+      "Magnolia Card (?%)",
+      "Immortal Heart (38.08%)",
+      "Transformation Scroll (Magnolia) (0.69%)",
+      "47 × Zeny (55.89%)",
+      "236 × Zeny (55.89%)",
+      "Leather Armor[1] (0.55%)"
+    ]
+  },
+  {
+    "name": "Soldier Skeleton",
+    "drops": [
+      "Bandana Blueprint (?%)",
+      "Soldier Skeleton Card (?%)",
+      "Immortal Heart (28.27%)",
+      "Rough Oridecon (0.72%)",
+      "Transformation Scroll (Soldier Skeleton) (0.02%)",
+      "47 × Zeny (64.96%)",
+      "238 × Zeny (64.96%)",
+      "Alloy Shield [1] (0.51%)"
+    ]
+  },
+  {
+    "name": "Desert Wolf",
+    "drops": [
+      "Eye Bandage Blueprint (?%)",
+      "Desert Wolf Card (?%)",
+      "Hard Skin (27.86%)",
+      "Lemon Dyestuffs (0.47%)",
+      "Transformation Scroll (Desert Wolf) (0.02%)",
+      "48 × Zeny (65.15%)",
+      "239 × Zeny (65.15%)",
+      "Awakening Potion (0.34%)",
+      "Alloy Bracelet [1] (0.51%)"
+    ]
+  },
+  {
+    "name": "Matyr",
+    "drops": [
+      "Matyr Card (?%)",
+      "Hard Skin (22.14%)",
+      "Rough Elunium (0.56%)",
+      "Transformation Scroll (Matyr) (0.02%)",
+      "48 × Zeny (69.47%)",
+      "241 × Zeny (69.47%)",
+      "Awakening Potion (0.27%)",
+      "Poison (1.08%)",
+      "Chloe Bow [2] (0.5%)"
+    ]
+  },
+  {
+    "name": "Vagabond Wolf",
+    "drops": [
+      "Western Grace Blueprint (0.68%)",
+      "Vagabond Wolf Card (?%)",
+      "Hard Skin (22.9%)",
+      "Orc Claw (7.44%)",
+      "Transformation Scroll (Vagabond Wolf) (2.08%)",
+      "Awakening Potion (18.55%)",
+      "Oridecon (2.43%)",
+      "395 × Zeny (?%)",
+      "Metal Bow [2] (45.87%)",
+      "Claytos Cracking Earth Armor (100%)",
+      "Staunch Shoes (100%)"
+    ]
+  },
+  {
+    "name": "Mistress",
+    "drops": [
+      "Coronet Blueprint (0.09%)",
+      "Mistress Card (?%)",
+      "5 × Scell (3.83%)",
+      "Pearl (9.91%)",
+      "Transformation Scroll (Mistress) (0.44%)",
+      "Honey (14.75%)",
+      "Elunium (4.64%)",
+      "Royal Jelly (2.95%)",
+      "Rough Wind (26.56%)",
+      "1938 × Zeny (36.8%)",
+      "Metal Dagger [2] (?%)",
+      "Staunch Armor (100%)",
+      "Nile's Bracelet (100%)"
+    ]
+  },
+  {
+    "name": "Mummy",
+    "drops": [
+      "Hot-blooded Headband Blueprint (?%)",
+      "Mummy Card (?%)",
+      "Transformation Scroll (Mummy) (0.03%)",
+      "48 × Zeny (92.12%)",
+      "242 × Zeny (92.12%)"
+    ]
+  },
+  {
+    "name": "Golem",
+    "drops": [
+      "Stone Heart [1] Blueprint (?%)",
+      "Golem Card (?%)",
+      "Rough Elunium (1.14%)",
+      "Transformation Scroll (Golem) (0.03%)",
+      "48 × Zeny (86.82%)",
+      "242 × Zeny (86.82%)",
+      "Gold Sand (3.91%)",
+      "Adventure Armor [1] (0.68%)"
+    ]
+  },
+  {
+    "name": "Metaller",
+    "drops": [
+      "Metaller Card (?%)",
+      "Transformation Scroll (Metaller) (0.03%)",
+      "48 × Zeny (87.15%)",
+      "242 × Zeny (87.15%)",
+      "Flame Heart (1.46%)",
+      "Gold Sand (3.93%)"
+    ]
+  },
+  {
+    "name": "Elder Willow",
+    "drops": [
+      "Laurel Wreath [1] Blueprint (?%)",
+      "Elder Willow Card (?%)",
+      "Scell (25.59%)",
+      "Transformation Scroll (Elder Willow) (0.62%)",
+      "49 × Zeny (66.2%)",
+      "244 × Zeny (66.2%)",
+      "Flame Heart (0.56%)",
+      "Dead Branch (0.78%)",
+      "Metal Staff [2] (0.52%)"
+    ]
+  },
+  {
+    "name": "Isis",
+    "drops": [
+      "Crown of Ancient Queen Blueprint (?%)",
+      "Isis Card (?%)",
+      "Immortal Heart (19.07%)",
+      "Rough Oridecon (0.49%)",
+      "Transformation Scroll (Isis) (0.02%)",
+      "49 × Zeny (67.53%)",
+      "245 × Zeny (67.53%)",
+      "Apple Juice (6.54%)",
+      "Metal Armor [1] (0.53%)"
+    ]
+  },
+  {
+    "name": "Bigfoot",
+    "drops": [
+      "Poo Poo Hat Blueprint (?%)",
+      "Bigfoot Card (?%)",
+      "Hard Skin (27.61%)",
+      "Transformation Scroll (Bigfoot) (0.61%)",
+      "49 × Zeny (65.14%)",
+      "247 × Zeny (65.14%)",
+      "Honey (0.56%)",
+      "Adventurer Shoes[1] (0.51%)"
+    ]
+  },
+  {
+    "name": "Savage",
+    "drops": [
+      "Angled Glasses Blueprint (?%)",
+      "Savage Card (?%)",
+      "Hard Skin (24.75%)",
+      "Transformation Scroll (Savage) (0.01%)",
+      "50 × Zeny (68.75%)",
+      "248 × Zeny (68.75%)",
+      "Royal Jelly (0.1%)",
+      "Army Shield [1] (0.42%)"
+    ]
+  },
+  {
+    "name": "Maya",
+    "drops": [
+      "Tiara [1] Blueprint (0.12%)",
+      "Queen's Hair Ornament Blueprint (0.48%)",
+      "Maya Card (?%)",
+      "5 × Scell (4.28%)",
+      "Parts (15.27%)",
+      "Transformation Scroll (Maya) (0.52%)",
+      "Leave me Alone (20.87%)",
+      "Oridecon (5.48%)",
+      "Topaz (4.59%)",
+      "2063 × Zeny (48.36%)",
+      "Army Boots [1] (?%)",
+      "Orleans's Gown (100%)",
+      "Loki's Nail [1] (100%)"
+    ]
+  },
+  {
+    "name": "Greatest General",
+    "drops": [
+      "Stop Post Blueprint (?%)",
+      "Greatest General Card (?%)",
+      "Rough Elunium (0.35%)",
+      "Transformation Scroll (Greatest General) (0.45%)",
+      "50 × Zeny (88.45%)",
+      "250 × Zeny (88.45%)",
+      "Mercury (2.68%)",
+      "Alloy Mace [2] (0.46%)"
+    ]
+  },
+  {
+    "name": "Eggyra",
+    "drops": [
+      "Eggshell Blueprint (?%)",
+      "Eggyra Card (?%)",
+      "Evil Horn (23.59%)",
+      "Transformation Scroll (Eggyra) (0.5%)",
+      "50 × Zeny (69.94%)",
+      "252 × Zeny (69.94%)"
+    ]
+  },
+  {
+    "name": "Horong",
+    "drops": [
+      "Bomb Wick Blueprint (?%)",
+      "Scarlet Dyestuffs (0.14%)",
+      "Rough Elunium (0.21%)",
+      "Transformation Scroll (Horong) (0.01%)",
+      "51 × Zeny (83.24%)",
+      "253 × Zeny (83.24%)",
+      "Flame Heart (0.18%)",
+      "10 × Fire Arrow (6.02%)",
+      "Mercury (2.54%)",
+      "Army Katar [2] (0.44%)"
+    ]
+  },
+  {
+    "name": "Dustiness",
+    "drops": [
+      "Dustiness Card (?%)",
+      "Scell (29.49%)",
+      "Scarlet Dyestuffs (0.5%)",
+      "Transformation Scroll (Dustiness) (0.02%)",
+      "51 × Zeny (62.82%)",
+      "253 × Zeny (62.82%)",
+      "Butterfly Wing (1.21%)",
+      "Adventurer Shoes[1] (0.5%)"
+    ]
+  },
+  {
+    "name": "Horong ★",
+    "drops": [
+      "Bomb Wick Blueprint (0.22%)",
+      "Horong Card (0.03%)",
+      "Scarlet Dyestuffs (0.2%)",
+      "Rough Elunium (0.31%)",
+      "Transformation Scroll (Horong) (0.01%)",
+      "51 × Zeny (82.1%)",
+      "253 × Zeny (82.1%)",
+      "Flame Heart (0.26%)",
+      "Fire Arrow (8.85%)",
+      "Mercury (0.75%)",
+      "Army Katar [2] (0.13%)",
+      "Amethyst (50%)",
+      "Amethyst (50%)"
+    ]
+  },
+  {
+    "name": "Munak",
+    "drops": [
+      "Munak Hat [1] Blueprint (?%)",
+      "Munak Card (?%)",
+      "Immortal Heart (30.6%)",
+      "Transformation Scroll (Munak) (0.58%)",
+      "51 × Zeny (59.99%)",
+      "255 × Zeny (59.99%)",
+      "Orange Potion (3.18%)",
+      "Army Sword [2] (0.47%)"
+    ]
+  },
+  {
+    "name": "Minorous",
+    "drops": [
+      "Minorous Horn Blueprint (?%)",
+      "Minorous Card (?%)",
+      "Rough Oridecon (1.26%)",
+      "Transformation Scroll (Minorous) (0.03%)",
+      "51 × Zeny (86.68%)",
+      "256 × Zeny (86.68%)",
+      "Gold Sand (3.92%)",
+      "Army Armor [1] (0.68%)"
+    ]
+  },
+  {
+    "name": "Wood Goblin",
+    "drops": [
+      "Singing Bird Blueprint (0.65%)",
+      "Wood Goblin Card (?%)",
+      "Scell (10.57%)",
+      "Pearl (5.23%)",
+      "Transformation Scroll (Wood Goblin) (2.1%)",
+      "Dead Branch (35.07%)",
+      "Elunium (2.45%)",
+      "407 × Zeny (0.19%)",
+      "Alloy Sword [2] (43.7%)",
+      "Blueeve Cape (100%)"
+    ]
+  },
+  {
+    "name": "Phreeoni",
+    "drops": [
+      "Mr. Scream Blueprint (0.16%)",
+      "Phreeoni Card (?%)",
+      "5 × Hard Skin (3.91%)",
+      "Scarlet Dyestuffs (44.19%)",
+      "Star Crumb (16.05%)",
+      "Transformation Scroll (Phreeoni) (0.63%)",
+      "You are Falling (25.25%)",
+      "Oridecon (6.62%)",
+      "Yggdrasil Berry (3.15%)",
+      "2000 × Zeny (?%)",
+      "Alloy Spear [2] (?%)",
+      "Orleans's Gloves (100%)",
+      "Rudra Bow [1] (100%)"
+    ]
+  },
+  {
+    "name": "Bongun",
+    "drops": [
+      "Bongun Hat [1] Blueprint (?%)",
+      "Bongun Card (?%)",
+      "Transformation Scroll (Bongun) (0.81%)",
+      "52 × Zeny (81.71%)",
+      "258 × Zeny (81.71%)",
+      "Orange Potion (5.99%)",
+      "Mercury (3.75%)",
+      "Army Hammer [2] (0.65%)"
+    ]
+  },
+  {
+    "name": "Mantis",
+    "drops": [
+      "Mantis Card (?%)",
+      "Zargon (28.34%)",
+      "Transformation Scroll (Mantis) (0.02%)",
+      "52 × Zeny (64.74%)",
+      "258 × Zeny (64.74%)",
+      "Great Nature (0.76%)",
+      "Army Katar [2] (0.51%)"
+    ]
+  },
+  {
+    "name": "Archer Skeleton",
+    "drops": [
+      "Apple of Archer Blueprint (?%)",
+      "Archer Skeleton Card (?%)",
+      "Zargon (18.6%)",
+      "Rough Oridecon (0.58%)",
+      "Transformation Scroll (Archer Skeleton) (0.02%)",
+      "52 × Zeny (58.2%)",
+      "259 × Zeny (58.2%)",
+      "Awakening Potion (0.28%)",
+      "10 × Fire Arrow (16.82%)",
+      "Army Bow [2] (0.46%)"
+    ]
+  },
+  {
+    "name": "Sohee ★",
+    "drops": [
+      "Decorative Golden Bell Blueprint (0.02%)",
+      "Sohee Card (0.01%)",
+      "Zargon (10.54%)",
+      "Transformation Scroll (Sohee) (0.01%)",
+      "52 × Zeny (77.89%)",
+      "261 × Zeny (77.89%)",
+      "Apple Juice (4.44%)",
+      "Mystic Frozen (0.28%)",
+      "Immortal Orb [1] (0.12%)",
+      "Amethyst (100%)"
+    ]
+  },
+  {
+    "name": "Sohee",
+    "drops": [
+      "Decorative Golden Bell Blueprint (?%)",
+      "Zargon (17.66%)",
+      "Transformation Scroll (Sohee) (0.02%)",
+      "52 × Zeny (68.02%)",
+      "261 × Zeny (68.02%)",
+      "Apple Juice (7.45%)",
+      "Mystic Frozen (0.47%)",
+      "Immortal Orb [1] (0.53%)"
+    ]
+  },
+  {
+    "name": "Marduk",
+    "drops": [
+      "Cultish Masque Blueprint (?%)",
+      "Marduk Card (?%)",
+      "Evil Horn (23.82%)",
+      "Scarlet Dyestuffs (0.5%)",
+      "Transformation Scroll (Marduk) (0.02%)",
+      "53 × Zeny (68.52%)",
+      "263 × Zeny (68.52%)",
+      "Flame Heart (0.64%)",
+      "Army Staff [2] (0.54%)"
+    ]
+  },
+  {
+    "name": "Dokebi",
+    "drops": [
+      "Dokebi Horn [1] Blueprint (?%)",
+      "Dokebi Card (?%)",
+      "Rough Elunium (0.33%)",
+      "Transformation Scroll (Dokebi) (0.01%)",
+      "53 × Zeny (88.89%)",
+      "264 × Zeny (88.89%)",
+      "Candy (0.44%)",
+      "Mercury (2.25%)",
+      "Army Boots [1] (0.39%)"
+    ]
+  },
+  {
+    "name": "Gryphon",
+    "drops": [
+      "Feather Beret [1] Blueprint (0.83%)",
+      "Gryphon Card (?%)",
+      "Glass Bead (13.18%)",
+      "Soft Feather (6.7%)",
+      "Transformation Scroll (Gryphon) (2.65%)",
+      "Rough Wind (17.71%)",
+      "Oridecon (3.09%)",
+      "412 × Zeny (0.24%)",
+      "Army Armor [1] (55.55%)",
+      "Doflamingo Cape (100%)"
+    ]
+  },
+  {
+    "name": "Anubis",
+    "drops": [
+      "Pagdayaw [1] Blueprint (0.55%)",
+      "Anubis Card (?%)",
+      "Glass Bead (6.75%)",
+      "Bloody Rune (4.15%)",
+      "Transformation Scroll (Anubis) (1.54%)",
+      "Oridecon (1.8%)",
+      "Topaz (48.05%)",
+      "425 × Zeny (?%)",
+      "Army Spear [2] (37.12%)",
+      "Exorcist Robe (100%)"
+    ]
+  },
+  {
+    "name": "Eddga",
+    "drops": [
+      "Pipe Blueprint (0.1%)",
+      "Eddga Card (?%)",
+      "5 × Glass Bead (4.39%)",
+      "Lemon Dyestuffs (27.07%)",
+      "Orc Claw (12.41%)",
+      "Transformation Scroll (Eddga) (0.38%)",
+      "Honey (12.89%)",
+      "Elunium (4.06%)",
+      "Flame Heart (23.2%)",
+      "Payon's Memory (15.47%)",
+      "2125 × Zeny (?%)",
+      "Army Coat [1] (?%)",
+      "Orleans's Server (100%)",
+      "Imperial Guard (100%)"
+    ]
+  },
+  {
+    "name": "Orc Warrior",
+    "drops": [
+      "Cigarette Blueprint (?%)",
+      "Orc Warrior Card (?%)",
+      "Rough Oridecon (0.92%)",
+      "Transformation Scroll (Orc Warrior) (0.87%)",
+      "53 × Zeny (86.22%)",
+      "266 × Zeny (86.22%)",
+      "Skel-Bone (3.91%)",
+      "Mercenary Sword [2] (0.68%)"
+    ]
+  },
+  {
+    "name": "Orc Archer",
+    "drops": [
+      "Orc Helm Blueprint (?%)",
+      "Orc Archer Card (?%)",
+      "Glass Bead (21.3%)",
+      "Transformation Scroll (Orc Archer) (0.54%)",
+      "53 × Zeny (71.29%)",
+      "267 × Zeny (71.29%)",
+      "Awakening Potion (0.32%)",
+      "Mercenary Bow [2] (0.46%)"
+    ]
+  },
+  {
+    "name": "Nine Tail",
+    "drops": [
+      "Nine Tails Blueprint (?%)",
+      "Nine Tail Card (?%)",
+      "Zargon (22.49%)",
+      "Rough Elunium (0.71%)",
+      "Transformation Scroll (Nine Tail) (0.03%)",
+      "54 × Zeny (68.48%)",
+      "269 × Zeny (68.48%)",
+      "Royal Jelly (0.11%)",
+      "Dead Branch (0.84%)",
+      "Panacea (0.81%)",
+      "Mercenary Coat [1] (0.6%)"
+    ]
+  },
+  {
+    "name": "Wild Rose",
+    "drops": [
+      "Nut Shell Blueprint (?%)",
+      "Wild Rose Card (?%)",
+      "Abyss Flower (14.37%)",
+      "Transformation Scroll (Wild Rose) (0.03%)",
+      "54 × Zeny (69.91%)",
+      "269 × Zeny (69.91%)",
+      "Apple Juice (9.1%)",
+      "Mercenary Sword [2] (0.55%)"
+    ]
+  },
+  {
+    "name": "Kobold (Axe)",
+    "drops": [
+      "Bone in Mouth Blueprint (?%)",
+      "Kobold Card (?%)",
+      "Necklace of Wisdom (23.95%)",
+      "Rough Elunium (0.94%)",
+      "Transformation Scroll (Kobold (Axe)) (0.03%)",
+      "54 × Zeny (69.13%)",
+      "270 × Zeny (69.13%)"
+    ]
+  },
+  {
+    "name": "Osiris",
+    "drops": [
+      "Crown [1] Blueprint (0.11%)",
+      "Osiris Card (?%)",
+      "5 × Evil Horn (7.41%)",
+      "Bloody Rune (13.85%)",
+      "Transformation Scroll (Osiris) (0.57%)",
+      "After Christmas (22.9%)",
+      "Oridecon (6.01%)",
+      "Yggdrasil Berry (2.86%)",
+      "2163 × Zeny (46.25%)",
+      "Army Knife [2] (?%)",
+      "Matyr's Leash (100%)",
+      "Blood Tears [1] (100%)"
+    ]
+  },
+  {
+    "name": "High Orc",
+    "drops": [
+      "Orc Helm Blueprint (?%)",
+      "High Orc Card (?%)",
+      "Glass Bead (23.99%)",
+      "Green Dyestuffs (0.5%)",
+      "Transformation Scroll (High Orc) (0.7%)",
+      "54 × Zeny (68.38%)",
+      "270 × Zeny (68.38%)",
+      "Mercenary Shield [1] (0.54%)"
+    ]
+  },
+  {
+    "name": "Kobold (Buckler)",
+    "drops": [
+      "Bone in Mouth Blueprint (?%)",
+      "Kobold Card (?%)",
+      "Lemon Dyestuffs (1.19%)",
+      "Transformation Scroll (Kobold (Buckler)) (0.03%)",
+      "54 × Zeny (87.37%)",
+      "272 × Zeny (87.37%)",
+      "Skel-Bone (3.95%)"
+    ]
+  },
+  {
+    "name": "Hyegun",
+    "drops": [
+      "Hyegun Hat [1] Blueprint (0.39%)",
+      "Hyegun Card (?%)",
+      "Brigan (14.72%)",
+      "Bell (2.6%)",
+      "Transformation Scroll (Hyegun) (1.12%)",
+      "Elunium (1.31%)",
+      "Orange Potion (21.22%)",
+      "Amethyst (31.97%)",
+      "435 × Zeny (?%)",
+      "Mercenary Staff [2] (26.64%)",
+      "Lucius's Fierce Armor of Volcano (100%)"
+    ]
+  },
+  {
+    "name": "Nightmare",
+    "drops": [
+      "Grief for Greed Blueprint (?%)",
+      "Nightmare Card (?%)",
+      "Cobaltblue Dyestuffs (0.64%)",
+      "Rough Elunium (0.96%)",
+      "Transformation Scroll (Nightmare) (0.03%)",
+      "54 × Zeny (85.86%)",
+      "272 × Zeny (85.86%)",
+      "Blue Potion (1.28%)",
+      "Skel-Bone (3.88%)"
+    ]
+  },
+  {
+    "name": "Kobold (Hammer)",
+    "drops": [
+      "Bone in Mouth Blueprint (?%)",
+      "Kobold Card (?%)",
+      "Necklace of Wisdom (24.64%)",
+      "Transformation Scroll (Kobold (Hammer)) (0.02%)",
+      "54 × Zeny (68.14%)",
+      "272 × Zeny (68.14%)",
+      "Flame Heart (0.83%)",
+      "Mercenary Hammer [2] (0.53%)"
+    ]
+  },
+  {
+    "name": "Orc Zombie",
+    "drops": [
+      "Orc Helm Blueprint (?%)",
+      "Orc Zombie Card (?%)",
+      "Evil Horn (35.03%)",
+      "Transformation Scroll (Orc Zombie) (0.02%)",
+      "55 × Zeny (59.33%)",
+      "273 × Zeny (59.33%)",
+      "Mercenary Knife [2] (0.47%)"
+    ]
+  },
+  {
+    "name": "Kobold Archer",
+    "drops": [
+      "Puppy Headband Blueprint (?%)",
+      "Kobold Archer Card (?%)",
+      "Abyss Flower (18.71%)",
+      "Rough Oridecon (0.88%)",
+      "Transformation Scroll (Kobold Archer) (0.03%)",
+      "56 × Zeny (73.11%)",
+      "281 × Zeny (73.11%)",
+      "Awakening Potion (0.42%)",
+      "Mercenary Bow [2] (0.57%)"
+    ]
+  },
+  {
+    "name": "Moonlight Flower",
+    "drops": [
+      "Corolla Blueprint (0.09%)",
+      "Moonlight Flower Card (?%)",
+      "5 × Hand of God (2.83%)",
+      "Lemon Dyestuffs (29.03%)",
+      "Bell (8.64%)",
+      "Transformation Scroll (Moonlight Flower) (0.41%)",
+      "Awakening Potion (8.29%)",
+      "Elunium (4.35%)",
+      "White Potion (35.25%)",
+      "Amethyst (11.08%)",
+      "2200 × Zeny (?%)",
+      "Runner Bracer[1] (?%)",
+      "Sprint Shoes (100%)",
+      "Sabbath [1] (100%)"
+    ]
+  },
+  {
+    "name": "Sky Petite",
+    "drops": [
+      "Petite's Tail Blueprint (?%)",
+      "Sky Petite Card (?%)",
+      "Hand of God (21.93%)",
+      "Rough Elunium (0.86%)",
+      "Transformation Scroll (Sky Petite) (0.03%)",
+      "56 × Zeny (67.52%)",
+      "280 × Zeny (67.52%)",
+      "Fly Wing (3.3%)",
+      "Runner Bracer[1] (0.53%)"
+    ]
+  },
+  {
+    "name": "Marionette Doll",
+    "drops": [
+      "Stellar Blueprint (?%)",
+      "Marionette Card (?%)",
+      "Zargon (20.4%)",
+      "Transformation Scroll (Marionette) (0.02%)",
+      "55 × Zeny (64.91%)",
+      "277 × Zeny (64.91%)",
+      "Apple Juice (8.6%)",
+      "Mercenary Shoes [1] (0.51%)"
+    ]
+  },
+  {
+    "name": "Orc Baby",
+    "drops": [
+      "Baby Pacifier Blueprint (0.79%)",
+      "Orc Baby Card (?%)",
+      "Glass Bead (13.36%)",
+      "Heroic Emblem (8.84%)",
+      "Transformation Scroll (Orc Baby) (2.85%)",
+      "Candy (17.61%)",
+      "Oridecon (3.32%)",
+      "445 × Zeny (?%)",
+      "Mercenary Hammer [2] (53.18%)",
+      "Aebecee's Raging Typhoon Armor (100%)"
+    ]
+  },
+  {
+    "name": "Orc Skeleton",
+    "drops": [
+      "Orc Helm Blueprint (?%)",
+      "Orc Skeleton Card (?%)",
+      "Rough Elunium (0.93%)",
+      "Transformation Scroll (Orc Skeleton) (0.02%)",
+      "56 × Zeny (87.81%)",
+      "278 × Zeny (87.81%)",
+      "Skel-Bone (3.09%)",
+      "Mercenary Katar [2] (0.53%)"
+    ]
+  },
+  {
+    "name": "Green Petite",
+    "drops": [
+      "Petite's Tail Blueprint (?%)",
+      "Green Petite Card (?%)",
+      "Rough Oridecon (1.62%)",
+      "Transformation Scroll (Green Petite) (0.03%)",
+      "55 × Zeny (86.92%)",
+      "275 × Zeny (86.92%)",
+      "Armor Shard (3.95%)"
+    ]
+  },
+  {
+    "name": "Jakk",
+    "drops": [
+      "Necktie [1] Blueprint (0.74%)",
+      "Jakk Card (?%)",
+      "Brigan (20.3%)",
+      "Cursed Ruby (6.81%)",
+      "Transformation Scroll (Jakk) (2.71%)",
+      "Candy (16.72%)",
+      "Elunium (3.16%)",
+      "455 × Zeny (?%)",
+      "Enchanted Staff [2] (49.53%)",
+      "Rider Insignia (100%)"
+    ]
+  },
+  {
+    "name": "Orc Hero",
+    "drops": [
+      "Helmet of Orc Hero [1] Blueprint (0.21%)",
+      "Orc Hero Card (?%)",
+      "5 × Necklace of Wisdom (7.96%)",
+      "Heroic Emblem (27%)",
+      "Transformation Scroll (Orc Hero) (0.96%)",
+      "Emperium (34.84%)",
+      "Oridecon (10.16%)",
+      "Yggdrasil Berry (4.83%)",
+      "Orcish Voucher (14%)",
+      "2250 × Zeny (?%)",
+      "Mercenary Armor [1] (?%)",
+      "Slash [1] (100%)"
+    ]
+  },
+  {
+    "name": "Kobold Leader",
+    "drops": [
+      "Ramen Hat [1] Blueprint (0.11%)",
+      "Kobold Leader Card (?%)",
+      "5 × Abyss Flower (1.4%)",
+      "Lemon Dyestuffs (40.37%)",
+      "Wrapping Lace (13.01%)",
+      "Transformation Scroll (Kobold Leader) (0.57%)",
+      "Royal Jelly (3.84%)",
+      "Elunium (6.05%)",
+      "Panacea (34.61%)",
+      "2250 × Zeny (?%)",
+      "Mercenary Katar [2] (?%)",
+      "Goibne's Greaves (100%)"
+    ]
+  },
+  {
+    "name": "Mimic",
+    "drops": [
+      "Mimic Card (?%)",
+      "49 × Zeny (?%)",
+      "Evil Chest (?%)",
+      "Creste's Royal Medal (?%)"
+    ]
+  },
+  {
+    "name": "Deviruchi",
+    "drops": [
+      "Deviruchi Hat Blueprint (?%)",
+      "Deviruchi Card (?%)",
+      "Hand of God (20.2%)",
+      "Rough Oridecon (0.79%)",
+      "Transformation Scroll (Deviruchi) (0.03%)",
+      "56 × Zeny (71.25%)",
+      "281 × Zeny (71.25%)",
+      "Candy (1.05%)",
+      "Mercenary Spear [2] (0.56%)"
+    ]
+  },
+  {
+    "name": "Succubus",
+    "drops": [
+      "Succubus Horn Blueprint (?%)",
+      "Succubus Card (?%)",
+      "Brigan (20.05%)",
+      "Transformation Scroll (Succubus) (0.02%)",
+      "56 × Zeny (52.16%)",
+      "281 × Zeny (52.16%)",
+      "Blue Potion (1.24%)",
+      "Creste's Royal Medal (21.63%)",
+      "Enchanted Staff [2] (0.41%)"
+    ]
+  },
+  {
+    "name": "Dragon Egg",
+    "drops": [
+      "Dragon Egg Card (?%)",
+      "57 × Zeny (?%)"
+    ]
+  },
+  {
+    "name": "Hunter Fly",
+    "drops": [
+      "Gemmed Sallet [1] Blueprint (?%)",
+      "Hunter Fly Card (?%)",
+      "Brigan (17.71%)",
+      "Green Dyestuffs (0.46%)",
+      "Rough Oridecon (0.7%)",
+      "Transformation Scroll (Hunter Fly) (0.03%)",
+      "57 × Zeny (71.62%)",
+      "283 × Zeny (71.62%)",
+      "Rough Wind (0.6%)",
+      "Fly Wing (2.67%)"
+    ]
+  },
+  {
+    "name": "Incubus",
+    "drops": [
+      "Incubus Horn Blueprint (?%)",
+      "Incubus Card (?%)",
+      "Brigan (20.23%)",
+      "Transformation Scroll (Incubus) (0.02%)",
+      "57 × Zeny (52.15%)",
+      "283 × Zeny (52.15%)",
+      "White Potion (0.76%)",
+      "Creste's Royal Medal (21.9%)",
+      "Enchanted Robe [1] (0.41%)"
+    ]
+  },
+  {
+    "name": "Ferus",
+    "drops": [
+      "Skeleton Helm [1] Blueprint (?%)",
+      "Ferus Card (?%)",
+      "Hand of God (20.98%)",
+      "Green Dyestuffs (0.55%)",
+      "Transformation Scroll (Ferus) (0.03%)",
+      "57 × Zeny (71.03%)",
+      "284 × Zeny (71.03%)",
+      "Great Nature (0.71%)",
+      "Dagger [2] (0.56%)"
+    ]
+  },
+  {
+    "name": "Abysmal Knight",
+    "drops": [
+      "Abysmal Knight Shield Blueprint (?%)",
+      "Abysmal Knight Card (?%)",
+      "Rough Elunium (1.07%)",
+      "Transformation Scroll (Abysmal Knight) (0.02%)",
+      "57 × Zeny (63.5%)",
+      "284 × Zeny (63.5%)",
+      "Creste's Royal Medal (26.52%)",
+      "Armor Shard (2.89%)",
+      "Prontera Lance [2] (0.5%)"
+    ]
+  },
+  {
+    "name": "Doppelganger",
+    "drops": [
+      "Fricca's Circlet Blueprint (0.1%)",
+      "Spiky Band Blueprint (0.42%)",
+      "Doppelganger Card (?%)",
+      "5 × Necklace of Oblivion (5.5%)",
+      "Cursed Ruby (13.54%)",
+      "Transformation Scroll (Doppelganger) (0.59%)",
+      "Under the Tower (23.92%)",
+      "Oridecon (6.28%)",
+      "Blue Potion (6.94%)",
+      "2313 × Zeny (42.65%)",
+      "Dagger [2] (?%)",
+      "Holy Avenger [1] (100%)",
+      "Heart Breaker [1] (100%)"
+    ]
+  },
+  {
+    "name": "Wraith",
+    "drops": [
+      "Wedding Veil Blueprint (?%)",
+      "Wraith Card (?%)",
+      "Transformation Scroll (Wraith) (0.02%)",
+      "57 × Zeny (62.03%)",
+      "286 × Zeny (62.03%)",
+      "Butterfly Wing (3.55%)",
+      "Creste's Royal Medal (25.76%)",
+      "Armor Shard (2.81%)",
+      "Bastard Sword [2] (0.49%)"
+    ]
+  },
+  {
+    "name": "Cramp",
+    "drops": [
+      "Cramp Card (?%)",
+      "Cyfar (2.63%)",
+      "Cobaltblue Dyestuffs (0.07%)",
+      "Rough Oridecon (0.17%)",
+      "Transformation Scroll (Cramp) (0.02%)",
+      "57 × Zeny (62.61%)",
+      "286 × Zeny (62.61%)",
+      "Creste's Royal Medal (28.58%)",
+      "Morning Star [2] (0.54%)"
+    ]
+  },
+  {
+    "name": "Atroce",
+    "drops": [
+      "Ulle's Cap [1] Blueprint (0.37%)",
+      "Atroce Card (?%)",
+      "5 × Zargon (?%)",
+      "Bloody Rune (59.23%)",
+      "Transformation Scroll (Atroce) (2.44%)",
+      "Yggdrasil Berry (12.23%)",
+      "Elunium (25.7%)",
+      "2100 × Zeny (?%)",
+      "Metal Katar [2] (?%)",
+      "Orleans Necklace (100%)"
+    ]
+  },
+  {
+    "name": "Mutant Dragon",
+    "drops": [
+      "Dragon Scale Stripe Blueprint (?%)",
+      "Mutant Dragonoid Card (?%)",
+      "Necklace of Wisdom (3.18%)",
+      "Dragon Scale (3.19%)",
+      "Transformation Scroll (Mutant Dragon) (1.33%)",
+      "Oridecon (1.55%)",
+      "463 × Zeny (68.03%)",
+      "Bastard Sword [2] (22.69%)",
+      "Ivory Lance [1] (100%)"
+    ]
+  },
+  {
+    "name": "Injustice",
+    "drops": [
+      "Nut on Head Blueprint (?%)",
+      "Injustice Card (?%)",
+      "Brigan (3.61%)",
+      "Transformation Scroll (Injustice) (0.03%)",
+      "58 × Zeny (59.52%)",
+      "289 × Zeny (59.52%)",
+      "Creste's Royal Medal (31.1%)",
+      "Enchanted Shoes [1] (0.59%)"
+    ]
+  },
+  {
+    "name": "Rafflesia",
+    "drops": [
+      "Blow Gun Blueprint (0.52%)",
+      "Rafflesia Card (?%)",
+      "Brigan (18.45%)",
+      "Four Leaf Clover (4.36%)",
+      "Transformation Scroll (Rafflesia) (1.7%)",
+      "Leaf of Yggdrasil (15.95%)",
+      "Rough Elunium (19.93%)",
+      "Tattered Time Pointer (4.18%)",
+      "465 × Zeny (?%)",
+      "Prontera Lance [2] (34.87%)",
+      "Giant Gloves [1] (100%)"
+    ]
+  },
+  {
+    "name": "Orc Lord",
+    "drops": [
+      "Orc Lord Helm [1] Blueprint (0.8%)",
+      "Grand Circlet Blueprint (0.2%)",
+      "Orc Lord Helm Card (?%)",
+      "5 × Necklace of Wisdom (15.95%)",
+      "Heroic Emblem (35.31%)",
+      "Transformation Scroll (Orc Lord) (1.26%)",
+      "Awakening Potion (25.31%)",
+      "Elunium (13.28%)",
+      "Orcish Voucher (7.86%)",
+      "2350 × Zeny (?%)",
+      "Guardian Shield [1] (?%)",
+      "Eye of Dullahan (100%)"
+    ]
+  },
+  {
+    "name": "Gargoyle",
+    "drops": [
+      "Indifferent Solo Hat [1] Blueprint (?%)",
+      "Gargoyle Card (?%)",
+      "Transformation Scroll (Gargoyle) (?%)",
+      "58 × Zeny (65.94%)",
+      "291 × Zeny (65.94%)",
+      "Fly Wing (0.98%)",
+      "Creste's Royal Medal (27.42%)"
+    ]
+  },
+  {
+    "name": "Raydric Archer",
+    "drops": [
+      "Horong Blueprint (?%)",
+      "Raydric Archer Card (?%)",
+      "Hand of God (22.14%)",
+      "Transformation Scroll (Raydric Archer) (0.02%)",
+      "58 × Zeny (51.29%)",
+      "291 × Zeny (51.29%)",
+      "Awakening Potion (0.41%)",
+      "Creste's Royal Medal (21.32%)",
+      "Battle Bow [2] (0.4%)"
+    ]
+  },
+  {
+    "name": "Sting",
+    "drops": [
+      "Sting hat Blueprint (?%)",
+      "Sting Card (?%)",
+      "Necklace of Oblivion (2.59%)",
+      "Transformation Scroll (Sting) (0.03%)",
+      "58 × Zeny (60.44%)",
+      "292 × Zeny (60.44%)",
+      "Great Nature (0.52%)",
+      "Creste's Royal Medal (31.24%)"
+    ]
+  },
+  {
+    "name": "Rideword ★",
+    "drops": [
+      "Observer Blueprint (?%)",
+      "Rideword Card (?%)",
+      "Brigan (?%)",
+      "Transformation Scroll (Rideword) (?%)",
+      "59 × Zeny (?%)",
+      "294 × Zeny (?%)",
+      "Creste's Royal Medal (?%)",
+      "Enchanted Robe [1] (?%)",
+      "Broken Blade (?%)"
+    ]
+  },
+  {
+    "name": "Rideword",
+    "drops": [
+      "Observer Blueprint (?%)",
+      "Brigan (18.63%)",
+      "Transformation Scroll (Rideword) (0.02%)",
+      "59 × Zeny (53.77%)",
+      "294 × Zeny (53.77%)",
+      "Creste's Royal Medal (22.5%)",
+      "Enchanted Robe [1] (0.42%)"
+    ]
+  },
+  {
+    "name": "Evil Druid",
+    "drops": [
+      "Evil Marcher Hat [1] Blueprint (?%)",
+      "Evil Druid Card (?%)",
+      "Necklace of Oblivion (16.03%)",
+      "Scarlet Dyestuffs (0.5%)",
+      "Transformation Scroll (Evil Druid) (0.02%)",
+      "59 × Zeny (55.02%)",
+      "294 × Zeny (55.02%)",
+      "Leaf of Yggdrasil (0.2%)",
+      "Creste's Royal Medal (23.02%)",
+      "Enchanted Armor [1] (0.43%)"
+    ]
+  },
+  {
+    "name": "Anolian",
+    "drops": [
+      "Sunday Hat Blueprint (?%)",
+      "Anolian Card (?%)",
+      "Transformation Scroll (Anolian) (0.03%)",
+      "59 × Zeny (60.95%)",
+      "295 × Zeny (60.95%)",
+      "Royal Jelly (0.09%)",
+      "Creste's Royal Medal (31.71%)",
+      "Mystic Frozen (1.01%)",
+      "Armor Shard (0.34%)",
+      "Battle Bow [2] (0.6%)"
+    ]
+  },
+  {
+    "name": "Owl Duke",
+    "drops": [
+      "Mage Hat Blueprint (0.5%)",
+      "Owl Duke Card (?%)",
+      "Necklace of Oblivion (9.16%)",
+      "Scarlet Dyestuffs (15.01%)",
+      "Crystal Mirror (4.91%)",
+      "Transformation Scroll (Owl Duke) (1.93%)",
+      "Rough Elunium (22.52%)",
+      "Creste's Royal Medal (3.79%)",
+      "470 × Zeny (?%)",
+      "Morning Star [2] (42.14%)",
+      "Gentleman's Staff [1] (100%)"
+    ]
+  },
+  {
+    "name": "Detarderous",
+    "drops": [
+      "Jewel Crown Blueprint (0.14%)",
+      "Detarderous Card (?%)",
+      "5 × Hand of God (11.46%)",
+      "Scarlet Dyestuffs (57.24%)",
+      "Dragon Scale (17.65%)",
+      "Transformation Scroll (Detarderous) (0.81%)",
+      "Yggdrasil Berry (4.08%)",
+      "Elunium (8.58%)",
+      "2375 × Zeny (?%)",
+      "Guardian Shield [1] (?%)",
+      "Stone Buckler (100%)",
+      "Shield of Naga (100%)"
+    ]
+  },
+  {
+    "name": "Dark Priest",
+    "drops": [
+      "Hockey Mask Blueprint (?%)",
+      "Dark Priest Card (?%)",
+      "Cyfar (18.69%)",
+      "Transformation Scroll (Dark Priest) (0.02%)",
+      "59 × Zeny (52.24%)",
+      "297 × Zeny (52.24%)",
+      "Blue Gemstone (2.53%)",
+      "Creste's Royal Medal (21.63%)",
+      "Mithril Orb [1] (0.41%)"
+    ]
+  },
+  {
+    "name": "Alice",
+    "drops": [
+      "Small Ribbons [1] Blueprint (0.6%)",
+      "Alice Card (?%)",
+      "Abyss Flower (8.89%)",
+      "Wrapping Lace (5.48%)",
+      "Transformation Scroll (Alice) (2.18%)",
+      "Candy (13.5%)",
+      "Rough Elunium (25.51%)",
+      "Creste's Royal Medal (3.61%)",
+      "500 × Zeny (?%)",
+      "Mithril Orb [1] (40.19%)",
+      "Ancient Cape (100%)"
+    ]
+  },
+  {
+    "name": "Raydric",
+    "drops": [
+      "Iron Cain Blueprint (?%)",
+      "Raydric Card (?%)",
+      "Transformation Scroll (Raydric) (0.03%)",
+      "60 × Zeny (64.24%)",
+      "300 × Zeny (64.24%)",
+      "Creste's Royal Medal (26.77%)",
+      "Armor Shard (2.92%)",
+      "Bastard Sword [2] (0.5%)"
+    ]
+  },
+  {
+    "name": "Baphomet Jr.★",
+    "drops": [
+      "Drooping Baphomet Jr. Blueprint (?%)",
+      "Baphomet Jr. Card (?%)",
+      "Necklace of Oblivion (?%)",
+      "Rough Oridecon (?%)",
+      "Transformation Scroll (Baphomet Jr.) (?%)",
+      "60 × Zeny (?%)",
+      "302 × Zeny (?%)",
+      "Leaf of Yggdrasil (?%)",
+      "Creste's Royal Medal (?%)",
+      "Specialty Jur [2] (?%)",
+      "Black Wing (?%)",
+      "Broken Blade (?%)"
+    ]
+  },
+  {
+    "name": "Owl Baron",
+    "drops": [
+      "Monocle Blueprint (0.31%)",
+      "Owl Baron Card (?%)",
+      "5 × Cyfar (18.37%)",
+      "Crystal Mirror (47.61%)",
+      "Transformation Scroll (Owl Baron) (2.59%)",
+      "Elunium (27.29%)",
+      "Creste's Royal Medal (3.79%)",
+      "2375 × Zeny (?%)",
+      "Enchanted Armor [1] (?%)",
+      "Static Shield (100%)",
+      "Spearfish Pike [1] (100%)"
+    ]
+  },
+  {
+    "name": "Baphomet Jr.",
+    "drops": [
+      "Drooping Baphomet Jr. Blueprint (?%)",
+      "Necklace of Oblivion (15.65%)",
+      "Rough Oridecon (0.74%)",
+      "Transformation Scroll (Baphomet Jr.) (0.02%)",
+      "60 × Zeny (55.3%)",
+      "302 × Zeny (55.3%)",
+      "Leaf of Yggdrasil (0.19%)",
+      "Creste's Royal Medal (22.92%)",
+      "Specialty Jur [2] (0.43%)"
+    ]
+  },
+  {
+    "name": "Zherlthsh",
+    "drops": [
+      "Masquerade Blueprint (0.27%)",
+      "Zherlthsh Card (?%)",
+      "Abyss Flower (9.25%)",
+      "Wrapping Lace (2.66%)",
+      "Transformation Scroll (Zherlthsh) (1.06%)",
+      "Rough Elunium (12.41%)",
+      "Creste's Royal Medal (1.63%)",
+      "513 × Zeny (54.5%)",
+      "Mithril Orb [1] (18.18%)",
+      "Bill Guisarme [1] (100%)"
+    ]
+  },
+  {
+    "name": "Mysteltainn",
+    "drops": [
+      "Loki's Whispers Blueprint (0.47%)",
+      "Mysteltainn Card (?%)",
+      "Brigan (2.19%)",
+      "Biotite (2.94%)",
+      "Transformation Scroll (Mysteltainn) (1.37%)",
+      "Rough Oridecon (16%)",
+      "Creste's Royal Medal (2.83%)",
+      "Broken Blade (42.67%)",
+      "485 × Zeny (?%)",
+      "Specialty Jur [2] (31.49%)",
+      "Fortune Sword [1] (100%)"
+    ]
+  },
+  {
+    "name": "Chimera",
+    "drops": [
+      "Hydra Blueprint (?%)",
+      "Chimera Card (?%)",
+      "5 × Abyss Flower (?%)",
+      "Rose Quartz (?%)",
+      "Transformation Scroll (Chimera) (?%)",
+      "Yggdrasil Berry (?%)",
+      "Creste's Royal Medal (?%)",
+      "2438 × Zeny (?%)",
+      "Enchanted Armor [1] (?%)"
+    ]
+  },
+  {
+    "name": "Wind Ghost",
+    "drops": [
+      "Magic Eyes Blueprint (?%)",
+      "Wind Ghost Card (?%)",
+      "Necklace of Oblivion (14.62%)",
+      "Lemon Dyestuffs (0.46%)",
+      "Transformation Scroll (Wind Ghost) (0.02%)",
+      "61 × Zeny (55.79%)",
+      "305 × Zeny (55.79%)",
+      "Rough Wind (0.59%)",
+      "Creste's Royal Medal (23.27%)",
+      "Enchanted Staff [2] (0.44%)"
+    ]
+  },
+  {
+    "name": "Joker",
+    "drops": [
+      "Joker Jester Blueprint (?%)",
+      "Joker Card (?%)",
+      "Transformation Scroll (Joker) (0.03%)",
+      "61 × Zeny (64.33%)",
+      "306 × Zeny (64.33%)",
+      "Creste's Royal Medal (26.7%)",
+      "Armor Shard (2.91%)",
+      "Enchanted Staff [2] (0.5%)"
+    ]
+  },
+  {
+    "name": "Dark Illusion",
+    "drops": [
+      "Cap Of Blindness [1] Blueprint (0.38%)",
+      "Dark Illusion Card (?%)",
+      "Cyfar (15.88%)",
+      "Rose Quartz (5.54%)",
+      "Transformation Scroll (Dark Illusion) (2.44%)",
+      "Rough Oridecon (28.53%)",
+      "Creste's Royal Medal (3.89%)",
+      "495 × Zeny (?%)",
+      "Enchanted Staff [2] (43.29%)",
+      "Exorcism Bible (100%)"
+    ]
+  },
+  {
+    "name": "Bloody Knight",
+    "drops": [
+      "Dark Knight Mask Blueprint (0.13%)",
+      "Bloody Knight Card (?%)",
+      "5 × Cyfar (?%)",
+      "Rose Quartz (10.66%)",
+      "Transformation Scroll (Bloody Knight) (1.11%)",
+      "Awakening Potion (22.23%)",
+      "Oridecon (11.67%)",
+      "Creste's Royal Medal (1.57%)",
+      "2563 × Zeny (52.59%)",
+      "Enchanted Armor [1] (?%)",
+      "Long Horn [1] (100%)"
+    ]
+  },
+  {
+    "name": "Khalitzburg",
+    "drops": [
+      "Bone Helm Blueprint (?%)",
+      "Khalitzburg Card (?%)",
+      "Necklace of Oblivion (14.73%)",
+      "Transformation Scroll (Khalitzburg) (0.02%)",
+      "62 × Zeny (56.38%)",
+      "309 × Zeny (56.38%)",
+      "Creste's Royal Medal (23.54%)",
+      "Enchanted Shoes [1] (0.44%)"
+    ]
+  },
+  {
+    "name": "Punk",
+    "drops": [
+      "Punk Card (?%)",
+      "Temporal Crystal (11.59%)",
+      "Transformation Scroll (Punk) (0.02%)",
+      "62 × Zeny (53.53%)",
+      "309 × Zeny (53.53%)",
+      "Tattered Time Pointer (29.8%)",
+      "Enchanted Robe [1] (0.42%)"
+    ]
+  },
+  {
+    "name": "Wanderer",
+    "drops": [
+      "Katana Blueprint (?%)",
+      "Wanderer Card (?%)",
+      "Cyfar (16.11%)",
+      "Rough Oridecon (0.76%)",
+      "Transformation Scroll (Wanderer) (0.02%)",
+      "62 × Zeny (54.93%)",
+      "311 × Zeny (54.93%)",
+      "Leaf of Yggdrasil (0.2%)",
+      "Creste's Royal Medal (22.82%)",
+      "Specialty Jur [2] (0.43%)"
+    ]
+  },
+  {
+    "name": "Baphomet",
+    "drops": [
+      "Majestic Goat Blueprint (0.18%)",
+      "Baphomet Card (?%)",
+      "5 × Cyfar (0.66%)",
+      "Rose Quartz (19.53%)",
+      "Transformation Scroll (Baphomet) (0.95%)",
+      "Emperium (34.46%)",
+      "Oridecon (10.05%)",
+      "Royal Jelly (6.38%)",
+      "Yggdrasil Berry (4.78%)",
+      "Broken Blade (22.97%)",
+      "2625 × Zeny (?%)",
+      "Enchanted Shoes [1] (?%)",
+      "Doom Slayer [1] (100%)",
+      "Crescent Scythe [1] (100%)"
+    ]
+  },
+  {
+    "name": "Dark Lord",
+    "drops": [
+      "Coif [1] Blueprint (0.38%)",
+      "Dark Lord Card (?%)",
+      "5 × Necklace of Oblivion (4.57%)",
+      "Biotite (51.86%)",
+      "Transformation Scroll (Dark Lord) (3.34%)",
+      "Elunium (35.17%)",
+      "Creste's Royal Medal (4.64%)",
+      "2500 × Zeny (?%)",
+      "Enchanted Shoes [1] (?%)",
+      "Kronos [1] (100%)",
+      "Staunch Ring (100%)"
+    ]
+  },
+  {
+    "name": "Huge Deviling",
+    "drops": [
+      "Evil Wing Ears Blueprint (?%)",
+      "Deviling Card (?%)",
+      "5 × Rotten Bandage (?%)",
+      "Soft Feather (?%)",
+      "Transformation Scroll (Deviling) (?%)",
+      "Apple Juice (?%)",
+      "Life in Spring (?%)",
+      "Creste's Royal Medal (?%)",
+      "2375 × Zeny (?%)",
+      "Long Bow [2] (?%)"
+    ]
+  },
+  {
+    "name": "Dracula",
+    "drops": [
+      "Blood Sucker Blueprint (?%)",
+      "Dracula Card (?%)",
+      "5 × Necklace of Oblivion (?%)",
+      "Wrapping Lace (?%)",
+      "Transformation Scroll (Dracula) (?%)",
+      "Creste's Royal Medal (?%)",
+      "2375 × Zeny (?%)",
+      "Enchanted Robe [1] (?%)"
+    ]
+  },
+  {
+    "name": "Randgris",
+    "drops": [
+      "Valkyrie Helm [1] Blueprint (?%)",
+      "Randgris Card (?%)",
+      "5 × Cyfar (?%)",
+      "Biotite (?%)",
+      "Transformation Scroll (Randgris) (?%)",
+      "Yggdrasil Berry (?%)",
+      "Leaf of Yggdrasil (?%)",
+      "Creste's Royal Medal (?%)",
+      "2488 × Zeny (?%)",
+      "Mithril Orb [1] (?%)"
+    ]
+  },
+  {
+    "name": "Black Witch",
+    "drops": [
+      "Black Witch Card (?%)",
+      "Transformation Scroll (Black Witch) (0.03%)",
+      "63 × Zeny (59.07%)",
+      "313 × Zeny (59.07%)",
+      "Tattered Time Pointer (33.08%)",
+      "Glitter Shell (2.71%)"
+    ]
+  },
+  {
+    "name": "Weak Puppet",
+    "drops": [
+      "Weak Puppet Card (?%)",
+      "Cyfar (?%)",
+      "Black Wing (?%)",
+      "2 × Creste's Royal Medal (?%)"
+    ]
+  },
+  {
+    "name": "Alarm ★",
+    "drops": [
+      "Alarm Card (?%)",
+      "Temporal Crystal (?%)",
+      "Rough Oridecon (?%)",
+      "Transformation Scroll (Alarm) (?%)",
+      "63 × Zeny (?%)",
+      "314 × Zeny (?%)",
+      "Tattered Time Pointer (?%)",
+      "Enchanted Shoes [1] (?%)",
+      "Memory Gem (?%)"
+    ]
+  },
+  {
+    "name": "Alarm",
+    "drops": [
+      "Temporal Crystal (5.86%)",
+      "Rough Oridecon (0.55%)",
+      "Transformation Scroll (Alarm) (0.01%)",
+      "63 × Zeny (63.96%)",
+      "314 × Zeny (63.96%)",
+      "Tattered Time Pointer (23.76%)",
+      "Enchanted Shoes [1] (0.33%)"
+    ]
+  },
+  {
+    "name": "Ancient Clock",
+    "drops": [
+      "Ancient Clock Card (?%)",
+      "Temporal Crystal (5.38%)",
+      "Rough Elunium (0.51%)",
+      "Transformation Scroll (Ancient Clock) (0.01%)",
+      "63 × Zeny (64%)",
+      "316 × Zeny (64%)",
+      "Dead Branch (0.6%)",
+      "Tattered Time Pointer (23.66%)",
+      "Enchanted Shoes [1] (0.33%)"
+    ]
+  },
+  {
+    "name": "Bathory ★",
+    "drops": [
+      "Bathory Card (?%)",
+      "Witch Star Dust (?%)",
+      "Transformation Scroll (Bathory) (?%)",
+      "63 × Zeny (?%)",
+      "317 × Zeny (?%)",
+      "Tattered Time Pointer (?%)",
+      "Mithril Orb [1] (?%)",
+      "Clock (?%)",
+      "Memory Gem (?%)"
+    ]
+  },
+  {
+    "name": "Bathory",
+    "drops": [
+      "Witch Star Dust (11.48%)",
+      "Transformation Scroll (Bathory) (0.02%)",
+      "63 × Zeny (54.68%)",
+      "317 × Zeny (54.68%)",
+      "Tattered Time Pointer (28.73%)",
+      "Mithril Orb [1] (0.41%)"
+    ]
+  },
+  {
+    "name": "Elder",
+    "drops": [
+      "Elder Card (?%)",
+      "Witch Star Dust (7.69%)",
+      "Cobaltblue Dyestuffs (0.48%)",
+      "Transformation Scroll (Elder) (0.02%)",
+      "64 × Zeny (57.36%)",
+      "319 × Zeny (57.36%)",
+      "Tattered Time Pointer (29.08%)",
+      "Battle Bow [2] (0.41%)"
+    ]
+  },
+  {
+    "name": "Clock",
+    "drops": [
+      "Spring Blueprint (0.19%)",
+      "Clock Card (?%)",
+      "Temporal Crystal (24.86%)",
+      "Time Twister (0.72%)",
+      "Transformation Scroll (Clock) (0.7%)",
+      "Dead Branch (11.8%)",
+      "Rough Elunium (8.26%)",
+      "Tattered Time Pointer (1.55%)",
+      "513 × Zeny (38.9%)",
+      "Enchanted Armor [1] (12.97%)",
+      "Fist [1] (100%)"
+    ]
+  },
+  {
+    "name": "Penomena",
+    "drops": [
+      "Penomena Card (?%)",
+      "Crystal Bone (7.41%)",
+      "Transformation Scroll (Penomena) (0.02%)",
+      "64 × Zeny (57.05%)",
+      "320 × Zeny (57.05%)",
+      "Panacea (0.8%)",
+      "Tattered Time Pointer (28.79%)",
+      "Mystic Frozen (0.6%)",
+      "Enchanted Robe [1] (0.41%)"
+    ]
+  },
+  {
+    "name": "Brilight",
+    "drops": [
+      "Brilight Card (?%)",
+      "Rough Elunium (0.66%)",
+      "Transformation Scroll (Brilight) (0.03%)",
+      "64 × Zeny (58.56%)",
+      "322 × Zeny (58.56%)",
+      "Leaf of Yggdrasil (0.17%)",
+      "Rough Wind (0.57%)",
+      "Tattered Time Pointer (32.34%)",
+      "Glitter Shell (2.65%)"
+    ]
+  },
+  {
+    "name": "Stem Worm",
+    "drops": [
+      "Stem Worm Card (?%)",
+      "Temporal Crystal (7.4%)",
+      "Rough Oridecon (0.7%)",
+      "Transformation Scroll (Stem Worm) (0.02%)",
+      "65 × Zeny (55.22%)",
+      "323 × Zeny (55.22%)",
+      "Great Nature (0.6%)",
+      "Tattered Time Pointer (30.83%)",
+      "Specialty Jur [2] (0.44%)"
+    ]
+  },
+  {
+    "name": "Clock Tower Manager",
+    "drops": [
+      "Evil Eye Blueprint (0.17%)",
+      "Clock Tower Manager Card (?%)",
+      "Crystal Bone (55.43%)",
+      "Key of Clock Tower (1.91%)",
+      "Transformation Scroll (Clock Tower Manager) (1.57%)",
+      "Leaf of Yggdrasil (14.73%)",
+      "Tattered Time Pointer (2.8%)",
+      "520 × Zeny (?%)",
+      "Enchanted Armor [1] (23.35%)",
+      "Windrunner Cape (100%)"
+    ]
+  },
+  {
+    "name": "Cookie",
+    "drops": [
+      "Gingerbread Man clip Blueprint (?%)",
+      "Gingerbread Man Card (?%)",
+      "Ice Cube (12.1%)",
+      "Transformation Scroll (Gingerbread Man) (0.02%)",
+      "65 × Zeny (53.27%)",
+      "325 × Zeny (53.27%)",
+      "Edelweiss (29.59%)",
+      "Baptized Robe [1] (0.42%)"
+    ]
+  },
+  {
+    "name": "Orc Lady",
+    "drops": [
+      "Orc Lady Card (?%)",
+      "Witch Star Dust (10.69%)",
+      "Transformation Scroll (Orc Lady) (0.02%)",
+      "65 × Zeny (55.13%)",
+      "327 × Zeny (55.13%)",
+      "Tattered Time Pointer (29.03%)",
+      "Morning Star [2] (0.41%)"
+    ]
+  },
+  {
+    "name": "Time Holder",
+    "drops": [
+      "Flutter Butterfly [1] Blueprint (0.16%)",
+      "Time Holder Card (?%)",
+      "5 × Crystal Bone (63.04%)",
+      "Time Twister (12.27%)",
+      "Transformation Scroll (Time Holder) (1.33%)",
+      "Yggdrasil Berry (6.65%)",
+      "Oridecon (13.96%)",
+      "Tattered Time Pointer (2.57%)",
+      "2625 × Zeny (?%)",
+      "Enchanted Shoes [1] (?%)",
+      "Sacred Mission (100%)"
+    ]
+  },
+  {
+    "name": "Myst Case",
+    "drops": [
+      "Gift Box Helm Blueprint (?%)",
+      "Myst Case Card (?%)",
+      "Frozen Heart (9.9%)",
+      "Transformation Scroll (Myst Case) (0.02%)",
+      "66 × Zeny (53.73%)",
+      "328 × Zeny (53.73%)",
+      "Edelweiss (30.02%)",
+      "Candy (1.24%)",
+      "White Flower Katar [2] (0.42%)"
+    ]
+  },
+  {
+    "name": "Cruiser ★",
+    "drops": [
+      "Cruiser Card (?%)",
+      "Box Wrapper (?%)",
+      "Rough Oridecon (?%)",
+      "Transformation Scroll (Cruiser) (?%)",
+      "66 × Zeny (?%)",
+      "330 × Zeny (?%)",
+      "Rough Wind (?%)",
+      "Christmas Socks (?%)",
+      "Baptized Shoes [1] (?%)",
+      "Snowman (?%)",
+      "Edelweiss (?%)"
+    ]
+  },
+  {
+    "name": "Cruiser",
+    "drops": [
+      "Legionnaire Hat [1] Blueprint (?%)",
+      "Cruiser Card (?%)",
+      "Box Wrapper (7.48%)",
+      "Rough Oridecon (0.71%)",
+      "Transformation Scroll (Cruiser) (0.02%)",
+      "66 × Zeny (55.25%)",
+      "330 × Zeny (55.25%)",
+      "Rough Wind (0.6%)",
+      "Edelweiss (30.72%)",
+      "Baptized Shoes [1] (0.43%)"
+    ]
+  },
+  {
+    "name": "Christmas Cookie",
+    "drops": [
+      "Pinocchio's Nose Blueprint (?%)",
+      "Cookie Card (?%)",
+      "Ice Cube (12.13%)",
+      "Transformation Scroll (Christmas Cookie) (0.02%)",
+      "65 × Zeny (53.36%)",
+      "327 × Zeny (53.36%)",
+      "Edelweiss (29.5%)",
+      "Baptized Armor [1] (0.42%)"
+    ]
+  },
+  {
+    "name": "Spashire",
+    "drops": [
+      "Spashire's Whisper Blueprint (0.07%)",
+      "Spashire Card (?%)",
+      "5 × Witch Star Dust (27.29%)",
+      "Key of Clock Tower (6.28%)",
+      "Transformation Scroll (Spashire) (0.57%)",
+      "Elunium (6.04%)",
+      "Tattered Time Pointer (1.23%)",
+      "Memory Gem (27.64%)",
+      "2663 × Zeny (30.83%)",
+      "Bastard Sword [2] (?%)",
+      "Finger [1] (100%)",
+      "Crystal Pumps (100%)"
+    ]
+  },
+  {
+    "name": "Zipper Bear",
+    "drops": [
+      "Honey Jar Blueprint (?%)",
+      "Zipper Bear Card (?%)",
+      "Transformation Scroll (Zipper Bear) (0.02%)",
+      "67 × Zeny (65.99%)",
+      "333 × Zeny (65.99%)",
+      "Edelweiss (25.8%)",
+      "Christmas Garland (2.11%)",
+      "Berserk Fist [2] (0.36%)"
+    ]
+  },
+  {
+    "name": "Teddy Bear",
+    "drops": null
+  },
+  {
+    "name": "Teddy Bear ★",
+    "drops": [
+      "Teddy Bear Card (?%)",
+      "Box Wrapper (?%)",
+      "Transformation Scroll (Teddy Bear) (?%)",
+      "66 × Zeny (?%)",
+      "331 × Zeny (?%)",
+      "Christmas Socks (?%)",
+      "Nassi's Sword [2] (?%)",
+      "Snowman (?%)",
+      "Edelweiss (?%)"
+    ]
+  },
+  {
+    "name": "Teddy Bear",
+    "drops": [
+      "Toy Nail [1] Blueprint (?%)",
+      "Teddy Bear Card (?%)",
+      "Box Wrapper (8.88%)",
+      "Transformation Scroll (Teddy Bear) (0.02%)",
+      "66 × Zeny (61.62%)",
+      "331 × Zeny (61.62%)",
+      "Edelweiss (23.85%)",
+      "Nassi's Sword [2] (0.34%)"
+    ]
+  },
+  {
+    "name": "Stormy Knight",
+    "drops": [
+      "Rudolph's Horn [1] Blueprint (0.17%)",
+      "Stormy Knight Card (?%)",
+      "5 × Ice Cube (12.26%)",
+      "Ice Powder (21.43%)",
+      "Transformation Scroll (Stormy Knight) (2.32%)",
+      "Elunium (24.38%)",
+      "Edelweiss (2.79%)",
+      "Mystic Frozen (13.59%)",
+      "Christmas Socks (9.06%)",
+      "2688 × Zeny (13.95%)",
+      "Royal Pike [2] (?%)",
+      "Storm Pike [1] (100%)",
+      "Elder's Hammer [1] (100%)"
+    ]
+  },
+  {
+    "name": "Chepet",
+    "drops": [
+      "Magic Firewood Blueprint (0.5%)",
+      "Chepet Card (?%)",
+      "Frozen Heart (6.69%)",
+      "Ice Powder (4.95%)",
+      "Transformation Scroll (Chepet) (4.82%)",
+      "Leaf of Yggdrasil (45.04%)",
+      "Edelweiss (4.06%)",
+      "540 × Zeny (?%)",
+      "Ancient Tree Staff [2] (33.9%)",
+      "Ice Pick [1] (100%)"
+    ]
+  },
+  {
+    "name": "Carat",
+    "drops": [
+      "Carat Card (?%)",
+      "Frozen Heart (17.99%)",
+      "Transformation Scroll (Carat) (0.04%)",
+      "67 × Zeny (74.9%)",
+      "333 × Zeny (74.9%)",
+      "Battle Fist [2] (0.59%)"
+    ]
+  },
+  {
+    "name": "Marmot",
+    "drops": [
+      "Martin Hat[1] Drawing (?%)",
+      "Martin Card (?%)",
+      "Burning Hair (16.74%)",
+      "Transformation Scroll (Martin) (0.04%)",
+      "68 × Zeny (73.25%)",
+      "338 × Zeny (73.25%)",
+      "New Poison (3.02%)",
+      "Garrison Spear [2] (0.6%)"
+    ]
+  },
+  {
+    "name": "Hatii",
+    "drops": [
+      "Icy Brand Blueprint (?%)",
+      "Hatii Card (?%)",
+      "5 × Ice Cube (?%)",
+      "Fang of Hatii (?%)",
+      "Transformation Scroll (Hatii) (?%)",
+      "Yggdrasil Berry (?%)",
+      "Oridecon (?%)",
+      "Edelweiss (?%)",
+      "Mystic Frozen (?%)",
+      "2725 × Zeny (?%)",
+      "Dwarf King's Axe [2] (?%)",
+      "Fang of Hatii [1] (?%)",
+      "Fairy in Bottle (?%)"
+    ]
+  },
+  {
+    "name": "Geographer",
+    "drops": [
+      "Sunflower Lollipop Drawing (?%)",
+      "Geographer Card (?%)",
+      "Fire Crystal (15.97%)",
+      "Transformation Scroll (Geographer) (0.04%)",
+      "68 × Zeny (72.81%)",
+      "341 × Zeny (72.81%)",
+      "Thorn Seed (4.33%)",
+      "Garrison Sword [2] (0.6%)"
+    ]
+  },
+  {
+    "name": "Harpy",
+    "drops": [
+      "Wagtail Crest[1] Drawing (?%)",
+      "Harpy Card (?%)",
+      "Transformation Scroll (Harpy) (0.03%)",
+      "68 × Zeny (87.14%)",
+      "342 × Zeny (87.14%)",
+      "Wall Paint (1.37%)",
+      "Candy (0.63%)",
+      "Harpy’s Feather (2.87%)",
+      "Garrison Staff [2] (0.5%)"
+    ]
+  },
+  {
+    "name": "Fiery Deviruchi",
+    "drops": [
+      "Portable Deviruchi Drawing (?%)",
+      "Fiery Deviruchi Card (?%)",
+      "Burning Heart (15.86%)",
+      "Transformation Scroll (Fiery Deviruchi) (0.04%)",
+      "68 × Zeny (72.97%)",
+      "342 × Zeny (72.97%)",
+      "Shell (4.3%)",
+      "Garrison Katar [2] (0.59%)"
+    ]
+  },
+  {
+    "name": "Fiery Mane",
+    "drops": [
+      "Zealous Rhino Drawing (?%)",
+      "Fiery Mane Card (?%)",
+      "Burning Heart (15.92%)",
+      "Fiery Mane Transformation scroll (0.04%)",
+      "69 × Zeny (72.85%)",
+      "344 × Zeny (72.85%)",
+      "Madogear Fuel (4.31%)",
+      "Garrison Axe [2] (0.59%)"
+    ]
+  },
+  {
+    "name": "Highland Parasite",
+    "drops": [
+      "Highland Flower Hairpin[1] Drawing (?%)",
+      "Highland Parasite Card (?%)",
+      "Fire Crystal (12.53%)",
+      "Rough Elunium (1.19%)",
+      "Transformation Scroll (Highland Parasite) (0.04%)",
+      "69 × Zeny (77.25%)",
+      "345 × Zeny (77.25%)",
+      "Holy Water (1.7%)",
+      "Garrison Dagger [2] (0.64%)"
+    ]
+  },
+  {
+    "name": "Fire Elf",
+    "drops": [
+      "Burning Eyes Drawing (?%)",
+      "Fire Elf Card (?%)",
+      "Fire Crystal (16.17%)",
+      "Transformation Scroll (Fire Elf) (0.04%)",
+      "69 × Zeny (72.6%)",
+      "347 × Zeny (72.6%)",
+      "Shell (4.38%)",
+      "Garrison Bow [2] (0.59%)"
+    ]
+  },
+  {
+    "name": "Fire Fledgling",
+    "drops": [
+      "Whimpering Fire Bird Drawing (?%)",
+      "Fire Fledgling Card (?%)",
+      "Burning Hair (11.14%)",
+      "Transformation Scroll (Fire Fledgling) (0.02%)",
+      "70 × Zeny (78.6%)",
+      "350 × Zeny (78.6%)",
+      "Madogear Fuel (3.02%)",
+      "Garrison Hammer [2] (0.45%)"
+    ]
+  },
+  {
+    "name": "Firelord Kaho",
+    "drops": [
+      "Kaho’s Protection Drawing (?%)",
+      "Firelord Kaho Card (?%)",
+      "5 × Burning Heart (62.79%)",
+      "Fiery Ember (11.35%)",
+      "Transformation Scroll (Firelord Kaho) (1.32%)",
+      "Oridecon (13.91%)",
+      "Lava Gem (10.59%)",
+      "2825 × Zeny (?%)",
+      "Garrison Sword [2] (?%)",
+      "Lance of Dragon Tamer [1] (100%)",
+      "Staff of Mana Storm [1] (100%)"
+    ]
+  },
+  {
+    "name": "Fire Witch",
+    "drops": [
+      "Fire Hat[1] Drawing (0.38%)",
+      "Fire Witch Card (?%)",
+      "Burning Hair (69.11%)",
+      "Fiery Ember (1.87%)",
+      "Transformation Scroll (Fire Witch) (1.96%)",
+      "Yggdrasil Berry (1.09%)",
+      "570 × Zeny (?%)",
+      "Garrison Knuckles [2] (25.56%)",
+      "Forest Hunter [1] (100%)",
+      "Red Square Bag (100%)"
+    ]
+  },
+  {
+    "name": "Arc Angeling",
+    "drops": [
+      "Lazy Poring[1] Drawing (0.17%)",
+      "Arc Angeling Card (?%)",
+      "5 × Fire Crystal (58.98%)",
+      "Shining Holy Water (9.95%)",
+      "Transformation Scroll (Arc Angeling) (1.24%)",
+      "Leaf of Yggdrasil (6.61%)",
+      "Oridecon (13.06%)",
+      "Lava Gem (9.95%)",
+      "2875 × Zeny (?%)",
+      "Garrison Spear [2] (?%)",
+      "Sura Rampage [1] (100%)",
+      "Mace of Judgment [1] (100%)"
+    ]
+  }
+]
